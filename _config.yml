@@ -1,0 +1,7 @@
+title: ScaledKeeper
+description: Reptile care guides for keepers of all levels.
+url: "https://scaledkeeper.com"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
