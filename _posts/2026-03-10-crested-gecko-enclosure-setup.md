@@ -58,4 +58,65 @@ Add a combination of:
 
 Live plants are worth considering even for beginners. Pothos, bromeliads, and ficus are hardy, non-toxic to geckos, and help maintain humidity naturally. Artificial plants require zero maintenance and work just as well for the gecko's comfort.
 
-Leave open space between climbing elements.
+Leave open space between climbing elements. Crested geckos like to move across the enclosure at different heights, so a mix of diagonal and vertical pieces works better than filling every inch.
+
+## Temperature Setup
+
+Crested geckos thrive between 68 and 78 degrees Fahrenheit. They are one of the few reptiles that do not require supplemental heating in most homes, as long as ambient room temperature stays within this range.
+
+Anything above 80 degrees for an extended period causes heat stress and can kill a gecko within hours. Check where you plan to place the enclosure relative to heating vents, windows with direct sun, and other heat sources before committing to a location.
+
+If your home drops below 65 degrees at night in winter, a low-wattage ceramic heat emitter (CHE) on a quality thermostat will bring temperatures up without producing light that disrupts their sleep cycle. Never use heat rocks or under-tank heaters for arboreal species.
+
+Place a digital thermometer at the top and bottom of the enclosure to track the temperature gradient. The [Zoo Med Digital Thermometer](https://amazon.com/dp/B0002AQCOA) is inexpensive and reliable for this.
+
+## Humidity Setup
+
+Target 60 to 80 percent humidity with a daily drop to around 50 percent during the day. This wet and dry cycle mimics the natural environment of New Caledonia, where crested geckos originate.
+
+Mist the enclosure once in the evening when the gecko becomes active and again in the morning if humidity has dropped too low overnight. Use a simple spray bottle to start. A pressure sprayer makes this faster if you have multiple enclosures.
+
+Monitor humidity with a digital hygrometer. Analog gauges are notoriously inaccurate. The [Govee Bluetooth Hygrometer](https://amazon.com/dp/B07R586J37) is a popular choice because it logs data and sends alerts if humidity goes out of range.
+
+## Lighting
+
+Crested geckos are crepuscular, meaning they are most active at dawn and dusk. They do not require UVB lighting to survive, but recent research suggests low-level UVB exposure may improve long-term health and calcium metabolism.
+
+If you choose to add UVB, a 2.0 or 5.0 bulb on a 10 to 12 hour cycle is appropriate. Keep the enclosure out of direct sunlight regardless, as this can spike temperatures to dangerous levels within minutes.
+
+A basic LED light on a timer is enough to maintain a natural day and night cycle and to grow live plants if you include them.
+
+## Water and Food Dishes
+
+Crested geckos drink water droplets from misting rather than from standing water in most cases, but keep a small shallow dish available at all times anyway. Change the water every one to two days.
+
+Food dishes should sit off the ground at mid to upper enclosure height, since crested geckos feed above ground level in the wild. Small magnetic ledge dishes or suction-cup mounted cups keep food accessible and easy to remove for cleaning.
+
+## Final Checklist Before Adding Your Gecko
+
+Before introducing a gecko, run the enclosure for at least 48 hours and confirm:
+
+- Temperature stays between 68 and 78 degrees at all times
+- Humidity reaches 70 percent after misting and drops to around 50 percent before the next misting cycle
+- Both hides are in place and appropriately sized
+- No sharp edges, loose decorations, or unstable climbing elements
+- Food and water dishes are in position
+
+A 48-hour test run catches problems before they affect the gecko and lets the substrate off-gas any residual odors from new materials.
+
+## FAQ
+
+**Can I use a screen enclosure for a crested gecko?**
+Screen enclosures lose humidity too quickly in most climates and require constant misting to maintain appropriate levels. Glass with a screen top is the better choice for most keepers outside of very humid regions.
+
+**How often should I clean the enclosure?**
+Spot clean waste weekly. Full substrate replacement every 2 to 3 months for simple setups. Bioactive enclosures with healthy microfauna can go much longer between full cleanouts.
+
+**Do I need a lock on the enclosure?**
+Crested geckos are not strong enough to push open a properly latched front-opening terrarium. Locks are worth adding if you have children or other pets in the home.
+
+**Can I put two crested geckos in the same enclosure?**
+Two females can cohabitate in a 24-inch tall enclosure with enough hides and visual barriers. Never house two males together. A male and female pair will breed continuously, which stresses the female and leads to health problems.
+
+**What is the best placement for the enclosure?**
+Choose a location with stable temperature away from windows, heating vents, and high-traffic areas. A quiet room where the gecko won't be disturbed during the day improves feeding response and reduces stress.
