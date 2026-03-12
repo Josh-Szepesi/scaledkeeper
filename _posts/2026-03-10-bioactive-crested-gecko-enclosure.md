@@ -28,7 +28,7 @@ If you want the simplest possible setup, coco fiber substrate and a few fake pla
 
 The minimum enclosure size for a bioactive crested gecko setup is 18" x 18" x 24". Larger is better. Bioactive enclosures benefit from more soil volume, more plant space, and more room for the cleanup crew to work. A 24" x 18" x 36" enclosure is ideal for a single adult and gives you significantly more design flexibility.
 
-Front-opening glass terrariums work best for bioactive builds. The [Exo Terra 18x18x24](https://amazon.com/dp/B000AQTFR4) and the [BioDude Terra Fauna](https://amazon.com/dp/B08P4BYNББ) are both purpose-built for naturalistic setups and include raised bottom frames for drainage layer access.
+Front-opening glass terrariums work best for bioactive builds. The [Exo Terra 18x18x24](https://amazon.com/dp/B000AQTFR4) and the [BioDude Terra Fauna](https://www.amazon.com/s?k=bioactive+reptile+substrate+mix) are both purpose-built for naturalistic setups and include raised bottom frames for drainage layer access.
 
 Screen tops are essential for bioactive enclosures. The enclosure needs airflow to prevent anaerobic conditions in the substrate, which cause foul odors and can harm the gecko and plants alike.
 
