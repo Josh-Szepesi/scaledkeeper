@@ -132,3 +132,15 @@ A proven breeder is an adult gecko with a documented history of successful repro
 
 **Is morph identification always accurate?**
 Not always. Morph naming in crested geckos is subjective and inconsistent across breeders. A gecko sold as a super harlequin by one breeder might be called a high harlequin by another. Focus on the animal's appearance rather than the label when evaluating value.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Bearded Dragon Habitat Kit](https://www.amazon.com/s?k=bearded+dragon+starter+habitat+kit)**
+- **[Reptile Infrared Temp Gun](https://www.amazon.com/s?k=reptile+infrared+temperature+gun)**
+- **[Bearded Dragon Care Book](https://www.amazon.com/s?k=bearded+dragon+care+guide+book)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
