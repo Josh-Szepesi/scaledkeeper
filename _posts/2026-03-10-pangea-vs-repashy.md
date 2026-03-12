@@ -6,7 +6,13 @@ description: "Pangea and Repashy are the two most popular crested gecko diet pow
 tags: [crested gecko, pangea, repashy, diet, food]
 ---
 
+
 If you have spent any time researching crested gecko care, you have already seen these two names come up constantly. Pangea and Repashy are the dominant brands in the crested gecko diet powder market, and both have loyal followings. The honest answer is that either one will keep your gecko healthy. But there are real differences worth understanding before you commit to one or stock up on the other.
+
+<div class="safety-note">
+**Safety Note:** Always prepare CGD with clean water and clean utensils. Remove uneaten food after 24-48 hours to prevent mold and bacterial growth. If your gecko is eating a diet exclusively but losing weight, consult a vet - some individuals need insect supplementation to thrive.
+</div>
+
 
 ## What They Are
 
@@ -30,7 +36,7 @@ Repashy is also widely available through pet stores and online retailers, which 
 
 ## Pangea: What You Need to Know
 
-Pangea Reptile produces a broader lineup of flavors than Repashy, which gives keepers more options for picky geckos or rotation feeding. Their most popular formulas include:
+Pangea Reptile produces a broader lineup of flavors than Repashy, which gives keepers more options for picky geckos or rotation [feeding](/2026/02/22/crested-gecko-feeding-guide.html). Their most popular formulas include:
 
 - Pangea Fruit Mix Complete: their all-purpose complete diet, the most widely recommended starter formula
 - Pangea Watermelon: a crowd favorite that most geckos accept readily
@@ -90,6 +96,9 @@ If your gecko refuses Pangea after two weeks of consistent offering, switch to R
 
 Keep a small backup supply of the alternative brand on hand regardless of which you choose as your primary. Geckos occasionally go through phases of refusing their usual food, and having an alternative ready prevents unnecessary stress for both of you.
 
+
+[Pangea Reptile](https://pangearcf.com/) and [Repashy Superfoods](https://www.repashy.com/) both publish detailed ingredient and nutritional information on their product pages - worth reading before committing.
+
 ## FAQ
 
 **Can I mix Pangea and Repashy together?**
@@ -106,3 +115,16 @@ Black Panther Zoological and Leapin Leachie produce well-regarded formulas with 
 
 **What if my gecko has never eaten CGD before?**
 Geckos acquired from breeders are almost always already eating CGD. If you have a wild-caught or previously insect-only gecko, transition gradually by offering CGD alongside live feeders and reducing insects over several weeks as CGD acceptance improves.
+---
+
+## Related Reading
+
+- [Crested Gecko Feeding Guide](/2026/02/22/crested-gecko-feeding-guide.html)
+- [Why Is My Crested Gecko Not Eating?](/2026/03/03/crested-gecko-not-eating.html)
+
+Want more detail on feeding schedules and live insect supplementation? Read our [complete Crested Gecko Feeding Guide](/2026/02/22/crested-gecko-feeding-guide.html).
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p>
+</div>
