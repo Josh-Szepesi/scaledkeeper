@@ -77,7 +77,7 @@ For stuck shed on toes, a warm soak works better than spot treatment:
 3. After soaking, gently roll the toes between your fingers using a damp cotton swab to work the shed loose
 4. Never pull or tug. If the shed does not come away with gentle pressure after soaking, repeat the soak rather than forcing it
 
-The [Zoo Med Repti Shedding Aid](https://amazon.com/dp/B0002DGL76) can be applied to stubborn areas to help loosen stuck shed, though warm water is usually sufficient for most cases.
+The [Zoo Med Repti Shedding Aid](https://www.amazon.com/s?k=reptile+shedding+aid+spray) can be applied to stubborn areas to help loosen stuck shed, though warm water is usually sufficient for most cases.
 
 For stuck shed around the eyes, do not attempt home removal if you are not confident in what you are doing. Eye injuries in geckos are serious. A reptile vet can remove periocular stuck shed safely if home treatment is not working after one or two attempts.
 
