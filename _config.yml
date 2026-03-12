@@ -5,3 +5,6 @@ baseurl: ""
 theme: minima
 plugins:
   - jekyll-feed
+
+feed:
+  path: feed.xml
