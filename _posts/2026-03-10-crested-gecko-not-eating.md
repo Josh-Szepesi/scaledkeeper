@@ -126,3 +126,15 @@ Yes. Chronic stress from inadequate hides, inappropriate temperatures, too much 
 
 **How do I know if my gecko is at a healthy weight?**
 A healthy adult crested gecko weighs between 35 and 55 grams depending on sex and build. More useful than a number is body condition: the hip bones should not be visible, the tail base should feel padded rather than bony, and the body should have a slight rounded profile rather than appearing flat or pinched.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Dubia Roaches Live](https://www.amazon.com/s?k=dubia+roaches+live+feeder+insects)**
+- **[Repashy Beardie Buffet](https://www.amazon.com/s?k=repashy+beardie+buffet+gel+food)**
+- **[Reptile Calcium Supplement](https://www.amazon.com/s?k=reptile+calcium+supplement+powder+d3)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
