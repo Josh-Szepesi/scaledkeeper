@@ -1,0 +1,63 @@
+---
+# Required front matter for Jekyll SCSS processing
+---
+
+@import "minima";
+
+// ── Brand colours ─────────────────────────────────────────
+$brand-accent:       #2d5a27;
+$brand-accent-light: #4a8c40;
+$brand-bg:           #f8fdf8;
+
+// ── Base overrides ────────────────────────────────────────
+body {
+  background-color: $brand-bg;
+}
+
+a {
+  color: $brand-accent;
+  &:hover {
+    color: $brand-accent-light;
+    text-decoration: underline;
+  }
+}
+
+.site-header {
+  border-top: 4px solid $brand-accent;
+  background-color: darken($brand-bg, 3%);
+}
+
+.site-title,
+.site-title:visited {
+  color: $brand-accent;
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: $brand-accent;
+}
+
+h1, h2, h3 {
+  color: darken($brand-accent, 10%);
+}
+
+.post-list h3 a {
+  color: $brand-accent;
+}
+
+// ── Author bio block ──────────────────────────────────────
+.author-bio {
+  border-top: 2px solid $brand-accent;
+  margin-top: 2.5em;
+  padding-top: 1.2em;
+  font-size: 0.93em;
+  color: #555;
+  background-color: darken($brand-bg, 2%);
+  padding: 1.2em 1.4em;
+  border-radius: 4px;
+}
+
+// ── Footer ────────────────────────────────────────────────
+.site-footer {
+  border-top: 1px solid $brand-accent;
+}
