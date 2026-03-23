@@ -7,6 +7,7 @@ tags: [crested gecko, enclosure, setup, beginner]
 image: /assets/images/2026-02-13-crested-gecko-enclosure-setup.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Getting the enclosure right before your gecko arrives is the single most important thing you can do as a new keeper. A properly set up tank means less stress for your gecko and fewer problems for you in the first weeks. This guide walks through every component in order, so you can set up with confidence.
 
@@ -28,7 +29,7 @@ For a single adult crested gecko, the minimum is a 20-gallon tall enclosure. The
 
 For juveniles under 10 grams, start in something smaller like a 6-quart plastic tub or a 10-gallon tank. Young geckos have trouble locating food in large spaces and can become stressed in enclosures that feel exposed.
 
-Glass terrariums with front-opening doors are the best choice for most keepers. They hold humidity better than screen-only enclosures and front access makes feeding and cleaning less disruptive for the gecko. The [Exo Terra 18x18x24 Glass Terrarium](https://amazon.com/dp/B000AQTFR4) is purpose-built for arboreal species and is the most commonly recommended option in the hobby.
+Glass terrariums with front-opening doors are the best choice for most keepers. They hold humidity better than screen-only enclosures and front access makes feeding and cleaning less disruptive for the gecko. The [Exo Terra 18x18x24 Glass Terrarium](https://amazon.com/dp/B000AQTFR4?tag=mbbeekeeping-20) is purpose-built for arboreal species and is the most commonly recommended option in the hobby.
 
 ## Drainage Layer
 
@@ -80,7 +81,7 @@ Anything above 80 degrees for an extended period causes heat stress and can kill
 
 If your home drops below 65 degrees at night in winter, a low-wattage ceramic heat emitter (CHE) on a quality thermostat will bring temperatures up without producing light that disrupts their sleep cycle. Never use heat rocks or under-tank heaters for arboreal species.
 
-Place a digital thermometer at the top and bottom of the enclosure to track the temperature gradient. The [Zoo Med Digital Thermometer](https://amazon.com/dp/B0002AQCOA) is inexpensive and reliable for this.
+Place a digital thermometer at the top and bottom of the enclosure to track the temperature gradient. The [Zoo Med Digital Thermometer](https://amazon.com/dp/B0002AQCOA?tag=mbbeekeeping-20) is inexpensive and reliable for this.
 
 ## Humidity Setup
 
@@ -88,7 +89,7 @@ Target 60 to 80 percent humidity with a daily drop to around 50 percent during t
 
 Mist the enclosure once in the evening when the gecko becomes active and again in the morning if humidity has dropped too low overnight. Use a simple spray bottle to start. A pressure sprayer makes this faster if you have multiple enclosures.
 
-Monitor humidity with a digital hygrometer. Analog gauges are notoriously inaccurate. The [Govee Bluetooth Hygrometer](https://amazon.com/dp/B07R586J37) is a popular choice because it logs data and sends alerts if humidity goes out of range.
+Monitor humidity with a digital hygrometer. Analog gauges are notoriously inaccurate. The [Govee Bluetooth Hygrometer](https://amazon.com/dp/B07R586J37?tag=mbbeekeeping-20) is a popular choice because it logs data and sends alerts if humidity goes out of range.
 
 ## Lighting
 
