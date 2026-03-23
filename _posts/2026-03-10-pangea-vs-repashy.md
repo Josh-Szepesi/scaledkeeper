@@ -4,7 +4,9 @@ title: "Pangea vs Repashy: Which Crested Gecko Food is Better?"
 date: 2026-03-10
 description: "Pangea and Repashy are the two most popular crested gecko diet powders. Here is an honest comparison to help you choose the right one for your gecko."
 tags: [crested gecko, pangea, repashy, diet, food]
+image: /assets/images/2026-03-10-pangea-vs-repashy.jpg
 ---
+
 
 
 If you have spent any time researching crested gecko care, you have already seen these two names come up constantly. Pangea and Repashy are the dominant brands in the crested gecko diet powder market, and both have loyal followings. The honest answer is that either one will keep your gecko healthy. But there are real differences worth understanding before you commit to one or stock up on the other.
@@ -13,6 +15,11 @@ If you have spent any time researching crested gecko care, you have already seen
 **Safety Note:** Always prepare CGD with clean water and clean utensils. Remove uneaten food after 24-48 hours to prevent mold and bacterial growth. If your gecko is eating a diet exclusively but losing weight, consult a vet - some individuals need insect supplementation to thrive.
 </div>
 
+
+
+![Pangea vs Repashy: Which Crested Gecko Food is Better?](/assets/images/2026-03-10-pangea-vs-repashy.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@maria_melnyk?utm_source=artlines_blog&utm_medium=referral">Maria Melnyk</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What They Are
 
