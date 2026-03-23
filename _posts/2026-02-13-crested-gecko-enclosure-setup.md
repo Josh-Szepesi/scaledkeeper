@@ -7,8 +7,6 @@ tags: [crested gecko, enclosure, setup, beginner]
 image: /assets/images/2026-02-13-crested-gecko-enclosure-setup.jpg
 ---
 
-<img src="/assets/images/2026-02-13-crested-gecko-enclosure-setup.jpg" alt="Crested Gecko Enclosure Setup: Step-by-Step Guide" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
-<p class="image-credit">Photo by <a href="https://unsplash.com/@zhenyao_photo?utm_source=artlines_blog&utm_medium=referral">Zhen Yao</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 Getting the enclosure right before your gecko arrives is the single most important thing you can do as a new keeper. A properly set up tank means less stress for your gecko and fewer problems for you in the first weeks. This guide walks through every component in order, so you can set up with confidence.
 
@@ -16,6 +14,11 @@ Getting the enclosure right before your gecko arrives is the single most importa
 **Safety Note:** When using heat mats or ceramic heat emitters, always attach a thermostat to prevent overheating. Never leave UVB bulbs running more than 12 hours per day, and replace them on the manufacturer's recommended schedule even if they still emit visible light.
 </div>
 
+
+
+![Crested Gecko Enclosure Setup: Step-by-Step Guide](/assets/images/2026-02-13-crested-gecko-enclosure-setup.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@zhenyao?utm_source=artlines_blog&utm_medium=referral">Zhen Yao</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Choosing the Right Enclosure
 
