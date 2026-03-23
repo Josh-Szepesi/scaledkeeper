@@ -3,11 +3,18 @@ layout: post
 title: "Common Crested Gecko Health Problems: Signs, Causes, and Care"
 date: 2026-03-16
 description: "Spot the most common crested gecko health problems early - from respiratory infections to MBD - so you can act fast and keep your gecko thriving long-term."
+image: /assets/images/2026-03-16-common-crested-gecko-health-problems.jpg
 ---
+
 
 Crested geckos are hardy compared to many reptiles, but that does not mean they are immune to health issues. In my experience keeping and breeding crested geckos, knowing what a sick gecko looks like - and catching problems early - makes the difference between a straightforward vet visit and a serious emergency. This guide covers the most common crested gecko health problems I have observed, what causes them, and what you can do about each one.
 
 **Safety Note:** If your crested gecko shows sudden changes in behavior, significant weight loss, labored breathing, or neurological symptoms such as tremors or inability to right itself, treat it as an emergency and contact a reptile-experienced veterinarian immediately. Do not attempt to diagnose or treat serious conditions at home.
+
+
+![Common Crested Gecko Health Problems: Signs, Causes, and Care](/assets/images/2026-03-16-common-crested-gecko-health-problems.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@criativoss?utm_source=artlines_blog&utm_medium=referral">Sara Gomes</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Respiratory Infections
 
