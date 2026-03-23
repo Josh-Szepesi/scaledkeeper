@@ -4,7 +4,9 @@ title: "Crested Gecko Shedding: What's Normal and How to Help"
 date: 2026-02-25
 description: "Everything you need to know about crested gecko shedding. Learn how often they shed, what normal shedding looks like, and how to help when something goes wrong."
 tags: [crested gecko, shedding, health, care]
+image: /assets/images/2026-02-25-crested-gecko-shedding.jpg
 ---
+
 
 
 Shedding is one of the most misunderstood aspects of crested gecko care. New keepers often panic when they notice their gecko looking dull and chalky, or when they never seem to catch the gecko in the act of shedding at all. Understanding what normal shedding looks like and when to intervene makes this a straightforward part of keeping rather than a source of ongoing anxiety.
@@ -13,6 +15,11 @@ Shedding is one of the most misunderstood aspects of crested gecko care. New kee
 **Safety Note:** Never attempt to pull retained shed from your gecko's toes or tail by force - this can cause serious injury. Instead, give a warm, humid soak for 15-20 minutes and let the shed loosen naturally. If retained shed persists after 2 soaks, see a reptile vet.
 </div>
 
+
+
+![Crested Gecko Shedding: What's Normal and How to Help](/assets/images/2026-02-25-crested-gecko-shedding.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@jamestiono?utm_source=artlines_blog&utm_medium=referral">James Tiono</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Crested Geckos Shed
 
