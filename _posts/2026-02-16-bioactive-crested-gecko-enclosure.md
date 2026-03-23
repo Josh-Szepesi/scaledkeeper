@@ -10,16 +10,16 @@ image: /assets/images/2026-02-16-bioactive-crested-gecko-enclosure.jpg
 
 A bioactive enclosure is one of the most rewarding setups you can build for a crested gecko. Done correctly, it creates a living ecosystem that manages its own waste, maintains [humidity](/2026/02/19/crested-gecko-temperature-humidity-guide.html) naturally, and gives your gecko an environment that closely mirrors its native habitat in New Caledonia. It also looks genuinely beautiful in a way that a paper towel and plastic hide setup never will.
 
-<div class="safety-note">
-**Safety Note:** Never use potting soil that contains perlite, fertilizers, or pesticides in a bioactive enclosure - these can be toxic to geckos and cleanup crew. Always verify any plant species is non-toxic before adding it to the enclosure.
-</div>
-
 Bioactive is not harder than a standard setup once it is established. The learning curve is front-loaded in the build phase. After that, maintenance is often less work than a conventional enclosure because the cleanup crew handles the biological waste that would otherwise require manual removal.
 
 This guide covers everything you need to build a functional bioactive crested gecko enclosure from scratch.
 
 <img src="/assets/images/2026-02-16-bioactive-crested-gecko-enclosure.jpg" alt="How to Build a Bioactive Crested Gecko Enclosure" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
 <p class="image-credit">Photo by <a href="https://unsplash.com/@jym007?utm_source=artlines_blog&utm_medium=referral">Jean-Yves Matroule</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+
+<div class="safety-note">
+**Safety Note:** Never use potting soil that contains perlite, fertilizers, or pesticides in a bioactive enclosure - these can be toxic to geckos and cleanup crew. Always verify any plant species is non-toxic before adding it to the enclosure.
+</div>
 
 ## Is Bioactive Right for You?
 
