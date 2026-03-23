@@ -4,12 +4,19 @@ title: "How to Tell If Your Crested Gecko is Male or Female"
 date: 2026-03-05
 description: "Learn how to sex a crested gecko accurately. Covers age requirements, what to look for, and how to avoid common mistakes when determining gender."
 tags: [crested gecko, sexing, male, female, care]
+image: /assets/images/2026-03-05-crested-gecko-male-or-female.jpg
 ---
+
 
 
 Knowing whether your crested gecko is male or female matters more than most new keepers initially realize. It affects housing decisions, health monitoring, dietary needs, and long-term planning if you ever consider breeding. It also prevents the common mistake of housing two males together, which results in fighting and serious injury.
 
 The good news is that sexing crested geckos is straightforward once you know what to look for and when to look for it. The bad news is that young geckos cannot be sexed reliably, and attempts to do so before the animal is old enough lead to errors that cause real problems down the line.
+
+
+![How to Tell If Your Crested Gecko is Male or Female](/assets/images/2026-03-05-crested-gecko-male-or-female.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@wolfalexs?utm_source=artlines_blog&utm_medium=referral">Oleksandr Sushko</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## When Can You Sex a Crested Gecko?
 
