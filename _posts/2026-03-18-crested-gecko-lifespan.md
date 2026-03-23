@@ -6,6 +6,7 @@ description: "Crested gecko lifespan can reach 20+ years in captivity. Learn the
 image: /assets/images/2026-03-18-crested-gecko-lifespan.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Crested geckos are not a short-term commitment. The crested gecko lifespan in captivity averages 15 to 20 years, and I have spoken with experienced keepers who have animals pushing 25. That kind of longevity does not happen by accident - it comes down to the decisions you make in the first year of keeping and the consistency you maintain every year after. Enclosure setup, diet quality, temperature management, and stress levels all play a measurable role.
 
@@ -38,7 +39,7 @@ If your home runs warm, practical fixes include: moving the enclosure to a lower
 
 Crested geckos are omnivores with relatively straightforward nutritional needs, but those needs still require consistent effort to meet. A diet of low-quality or improperly stored crested gecko diet (CGD) powder is a common and underappreciated cause of metabolic problems that shorten lifespan.
 
-I recommend a quality complete CGD powder as the dietary foundation. Products like [Pangea Fruit Mix Complete](https://www.amazon.com/s?k=pangea+crested+gecko+diet) provide a balanced nutritional profile when prepared and stored correctly - mix fresh batches every 2 to 3 days and refrigerate between feedings. Insects should supplement the diet 2 to 3 times per week for juveniles and growing subadults, and weekly for adults. In my animals, adding feeder variety - rotating between dubia roaches and crickets - noticeably improves body condition compared to those on CGD alone.
+I recommend a quality complete CGD powder as the dietary foundation. Products like [Pangea Fruit Mix Complete](https://www.amazon.com/s?k=pangea+crested+gecko+diet&tag=mbbeekeeping-20) provide a balanced nutritional profile when prepared and stored correctly - mix fresh batches every 2 to 3 days and refrigerate between feedings. Insects should supplement the diet 2 to 3 times per week for juveniles and growing subadults, and weekly for adults. In my animals, adding feeder variety - rotating between dubia roaches and crickets - noticeably improves body condition compared to those on CGD alone.
 
 Do not skip insects entirely just because CGD is marketed as "complete." Live prey provides behavioral enrichment and protein diversity that powder alone does not fully replicate.
 
@@ -46,7 +47,7 @@ Do not skip insects entirely just because CGD is marketed as "complete." Live pr
 
 Calcium deficiency is the single most common preventable cause of early death in captive crested geckos. Metabolic bone disease (MBD) - caused by insufficient calcium or a poor calcium-to-phosphorus ratio - progresses slowly and is often missed until it becomes severe.
 
-Every feeding of live insects should receive a light dusting of [calcium powder with vitamin D3](https://www.amazon.com/s?k=reptile+calcium+supplement+vitamin+d3). If your gecko eats primarily CGD, supplementation is still important: captive animals rarely receive enough natural UVB to synthesize adequate D3 on their own. For context on whether a UVB lamp changes this equation, see the full breakdown in the [crested gecko UVB lighting guide](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html).
+Every feeding of live insects should receive a light dusting of [calcium powder with vitamin D3](https://www.amazon.com/s?k=reptile+calcium+supplement+vitamin+d3&tag=mbbeekeeping-20). If your gecko eats primarily CGD, supplementation is still important: captive animals rarely receive enough natural UVB to synthesize adequate D3 on their own. For context on whether a UVB lamp changes this equation, see the full breakdown in the [crested gecko UVB lighting guide](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html).
 
 A gecko that has gone years without proper calcium supplementation may look healthy until the damage is already done. I supplement every feeder insect meal without exception - it is one of the lowest-cost, highest-impact things you can do.
 
@@ -136,4 +137,3 @@ If you want to build the highest-probability setup for long-term health, start w
   <p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p>
 </div>
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
