@@ -7,6 +7,8 @@ tags: [crested gecko, beginner, care guide]
 image: /assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Crested geckos are one of the best starter reptiles on the market  -  and for good reason. They're hardy, handleable, don't need UV lighting, and thrive at room temperature in most homes. If you're just getting started, this guide covers everything you need to set up a healthy enclosure and keep your gecko thriving long-term.
 
 <div class="safety-note">
@@ -30,7 +32,7 @@ A single adult crested gecko needs a minimum of a 20-gallon tall enclosure. Cres
 
 For juveniles under 10 grams, start smaller  -  a 6-quart plastic tub or 10-gallon tank prevents them from having trouble locating food.
 
-The [Exo Terra 18x18x24 Glass Terrarium](https://amazon.com/dp/B000AQTFR4) is a popular choice and purpose-built for arboreal species. It has front-opening doors, a screen top for ventilation, and a raised bottom for a drainage layer.
+The [Exo Terra 18x18x24 Glass Terrarium](https://amazon.com/dp/B000AQTFR4?tag=mbbeekeeping-20) is a popular choice and purpose-built for arboreal species. It has front-opening doors, a screen top for ventilation, and a raised bottom for a drainage layer.
 
 ### Substrate
 
@@ -56,7 +58,7 @@ If your home drops below 65°F at night, a low-wattage ceramic heat emitter on a
 
 Target 60–80% humidity with a dip to around 50% during the day. This mimics the natural wet/dry cycle of their native New Caledonia. Mist the enclosure once or twice daily  -  once in the evening when they become active, and once in the morning if needed.
 
-A digital hygrometer is essential. The [Govee Bluetooth Hygrometer](https://amazon.com/dp/B07R586J37) is inexpensive and lets you monitor humidity from your phone, which is handy when you're starting out and trying to dial in your routine.
+A digital hygrometer is essential. The [Govee Bluetooth Hygrometer](https://amazon.com/dp/B07R586J37?tag=mbbeekeeping-20) is inexpensive and lets you monitor humidity from your phone, which is handy when you're starting out and trying to dial in your routine.
 
 ## Feeding
 
@@ -66,7 +68,7 @@ The easiest and most complete diet for crested geckos is a commercially prepared
 
 Mix to a ketchup-like consistency and offer every other day in a small dish. Remove uneaten food after 24–36 hours to prevent mold.
 
-The [Pangea Fruit Mix Complete](https://amazon.com/dp/B00BKBYLG4) is a solid starting point  -  it's nutritionally complete and most geckos accept it readily.
+The [Pangea Fruit Mix Complete](https://amazon.com/dp/B00BKBYLG4?tag=mbbeekeeping-20) is a solid starting point  -  it's nutritionally complete and most geckos accept it readily.
 
 ### Live Insects
 
