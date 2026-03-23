@@ -6,6 +6,7 @@ description: "Spot the most common crested gecko health problems early - from re
 image: /assets/images/2026-03-16-common-crested-gecko-health-problems.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Crested geckos are hardy compared to many reptiles, but that does not mean they are immune to health issues. In my experience keeping and breeding crested geckos, knowing what a sick gecko looks like - and catching problems early - makes the difference between a straightforward vet visit and a serious emergency. This guide covers the most common crested gecko health problems I have observed, what causes them, and what you can do about each one.
 
@@ -22,7 +23,7 @@ Respiratory infections (RIs) are one of the more common issues I see in crested 
 
 Signs to watch for include wheezing, clicking, or labored breathing, open-mouth breathing, mucus around the nostrils or mouth, and a sudden drop in activity level. These are not subtle signs - a gecko with an RI looks and sounds unwell.
 
-Crested geckos do best with nighttime temperatures in the low 70s Fahrenheit (around 70-72 degrees) and daytime temperatures no higher than 80 degrees. If your enclosure runs cold or stays waterlogged after misting, you are creating conditions that favor bacterial infections. I recommend checking temperatures and humidity daily using a reliable [digital thermometer and hygrometer combo](https://www.amazon.com/s?k=digital+thermometer+hygrometer+reptile) to catch drift before it causes problems. More detail on setting up the right environment is in my [crested gecko temperature and humidity guide](https://scaledkeeper.com/2026/02/19/crested-gecko-temperature-humidity-guide.html).
+Crested geckos do best with nighttime temperatures in the low 70s Fahrenheit (around 70-72 degrees) and daytime temperatures no higher than 80 degrees. If your enclosure runs cold or stays waterlogged after misting, you are creating conditions that favor bacterial infections. I recommend checking temperatures and humidity daily using a reliable [digital thermometer and hygrometer combo](https://www.amazon.com/s?k=digital+thermometer+hygrometer+reptile&tag=mbbeekeeping-20) to catch drift before it causes problems. More detail on setting up the right environment is in my [crested gecko temperature and humidity guide](https://scaledkeeper.com/2026/02/19/crested-gecko-temperature-humidity-guide.html).
 
 Treatment for respiratory infections requires a veterinarian. Do not try to address suspected bacterial infections with over-the-counter products. A vet will typically prescribe antibiotics after a physical exam, and in some cases a culture and sensitivity test if the infection is not responding to first-line treatment.
 
@@ -117,4 +118,3 @@ Getting husbandry right prevents the majority of health problems covered here - 
   <p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p>
 </div>
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
