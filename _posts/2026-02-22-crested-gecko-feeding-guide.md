@@ -4,7 +4,9 @@ title: "What Do Crested Geckos Eat? Feeding Schedule and Diet Guide"
 date: 2026-02-22
 description: "A complete guide to feeding crested geckos. Covers crested gecko diet powder, live insects, feeding schedules, and how to know if your gecko is eating enough."
 tags: [crested gecko, feeding, diet, care]
+image: /assets/images/2026-02-22-crested-gecko-feeding-guide.jpg
 ---
+
 
 
 Feeding crested geckos is one of the easier parts of keeping them, but there are enough details to get wrong that it's worth understanding the full picture before you start. This guide covers everything from the basics of crested gecko diet powder to live insect [supplement](/2026/03/03/crested-gecko-not-eating.html)ation, feeding frequency, and how to tell if your gecko is actually eating.
@@ -13,6 +15,11 @@ Feeding crested geckos is one of the easier parts of keeping them, but there are
 **Safety Note:** Always dust live insects with calcium and vitamin D3 supplements before feeding. Over-supplementing with vitamin A can cause toxicity - follow the manufacturer's dosing schedule and consult a vet if you see swelling or skin peeling.
 </div>
 
+
+
+![What Do Crested Geckos Eat? Feeding Schedule and Diet Guide](/assets/images/2026-02-22-crested-gecko-feeding-guide.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Foundation: Crested Gecko Diet Powder
 
