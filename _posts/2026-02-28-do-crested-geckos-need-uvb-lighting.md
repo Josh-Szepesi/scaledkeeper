@@ -7,7 +7,7 @@ tags: [crested gecko, UVB lighting, reptile care, gecko husbandry]
 image: /assets/images/2026-02-28-do-crested-geckos-need-uvb-lighting.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 For years, the crested gecko hobby operated on a simple assumption: these crepuscular, forest-floor dwellers from New Caledonia are naturally shaded animals, so UVB is optional. That assumption is now being challenged by a growing body of research and keeper experience. The short answer is nuanced: crested geckos can survive without UVB, but the evidence increasingly suggests they *thrive* with it.
 
@@ -59,7 +59,7 @@ You do not need a blazing desert lamp. Crested geckos require a low-level UVB so
 
 Look for T5 HO or T8 fluorescent UVB bulbs with a UVI of 1.0 to 2.0 at basking distance. Arcadia's 6% Forest Canopy and Zoo Med's ReptiSun 5.0 are well-matched for crested gecko enclosures. Avoid mercury vapor bulbs, which produce UVB levels suited to desert species and can overheat a crested gecko enclosure.
 
-Recommended option: [Arcadia Forest Canopy 6% T5 HO UVB Bulb](https://www.amazon.com/s?k=t5+ho+uvb+reptile+bulb)
+Recommended option: [Arcadia Forest Canopy 6% T5 HO UVB Bulb](https://www.amazon.com/s?k=t5+ho+uvb+reptile+bulb&tag=mbbeekeeping-20)
 
 ### Mounting Distance Matters
 
@@ -77,7 +77,7 @@ A bioactive planted enclosure with a canopy of live plants is ideal because it n
 
 Run your UVB light on a consistent 12-hour cycle in summer and a 10-hour cycle in winter. This also helps simulate natural seasonal changes, which can support reproductive cycling in breeding animals.
 
-Recommended timer: [BN-LINK Digital Outlet Timer for Reptile Enclosures](https://www.amazon.com/s?k=t5+ho+uvb+reptile+bulb)
+Recommended timer: [BN-LINK Digital Outlet Timer for Reptile Enclosures](https://www.amazon.com/s?k=t5+ho+uvb+reptile+bulb&tag=mbbeekeeping-20)
 
 ## Signs a Crested Gecko May Be D3-Deficient
 
@@ -97,7 +97,7 @@ If your crested gecko has lived in a no-UVB setup for years, you can introduce U
 
 A slow transition is especially important for animals that have been D3-deficient, since their skin may be more sensitive to UV exposure initially.
 
-Recommended full-kit option: [Zoo Med ReptiSun 5.0 UVB T8 Kit with Reflector Dome](https://www.amazon.com/s?k=t5+ho+uvb+reptile+bulb)
+Recommended full-kit option: [Zoo Med ReptiSun 5.0 UVB T8 Kit with Reflector Dome](https://www.amazon.com/s?k=t5+ho+uvb+reptile+bulb&tag=mbbeekeeping-20)
 
 
 The [UV-B Guide for Reptiles](https://www.uvguide.co.uk/) by Frances Baines is the most comprehensive public resource on reptile UV requirements and bulb testing.
