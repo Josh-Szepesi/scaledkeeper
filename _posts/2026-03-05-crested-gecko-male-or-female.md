@@ -7,7 +7,7 @@ tags: [crested gecko, sexing, male, female, care]
 image: /assets/images/2026-03-05-crested-gecko-male-or-female.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Knowing whether your crested gecko is male or female matters more than most new keepers initially realize. It affects housing decisions, health monitoring, dietary needs, and long-term planning if you ever consider breeding. It also prevents the common mistake of housing two males together, which results in fighting and serious injury.
 
@@ -120,11 +120,10 @@ Once you know your gecko's sex, you might be curious about genetic traits. Check
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Bearded Dragon Care Guide](https://www.amazon.com/s?k=bearded+dragon+complete+care+guide+book)**
-- **[Reptile Handling Gloves](https://www.amazon.com/s?k=reptile+handling+gloves+leather)**
-- **[Digital Reptile Thermometer](https://www.amazon.com/s?k=digital+reptile+thermometer+hygrometer)**
+- **[Bearded Dragon Care Guide](https://www.amazon.com/s?k=bearded+dragon+complete+care+guide+book&tag=mbbeekeeping-20)**
+- **[Reptile Handling Gloves](https://www.amazon.com/s?k=reptile+handling+gloves+leather&tag=mbbeekeeping-20)**
+- **[Digital Reptile Thermometer](https://www.amazon.com/s?k=digital+reptile+thermometer+hygrometer&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
