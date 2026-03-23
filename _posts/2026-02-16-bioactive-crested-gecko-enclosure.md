@@ -4,8 +4,13 @@ title: "How to Build a Bioactive Crested Gecko Enclosure"
 date: 2026-02-16
 description: "A step-by-step guide to building a bioactive crested gecko enclosure. Covers substrate mix, live plants, cleanup crew, and how to maintain a self-sustaining setup."
 tags: [crested gecko, bioactive, enclosure, advanced]
+image: /assets/images/2026-02-16-bioactive-crested-gecko-enclosure.jpg
 ---
 
+
+
+<img src="/assets/images/2026-02-16-bioactive-crested-gecko-enclosure.jpg" alt="How to Build a Bioactive Crested Gecko Enclosure" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
+<p class="image-credit">Photo by <a href="https://unsplash.com/@jym007?utm_source=artlines_blog&utm_medium=referral">Jean-Yves Matroule</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 A bioactive enclosure is one of the most rewarding setups you can build for a crested gecko. Done correctly, it creates a living ecosystem that manages its own waste, maintains [humidity](/2026/02/19/crested-gecko-temperature-humidity-guide.html) naturally, and gives your gecko an environment that closely mirrors its native habitat in New Caledonia. It also looks genuinely beautiful in a way that a paper towel and plastic hide setup never will.
 
