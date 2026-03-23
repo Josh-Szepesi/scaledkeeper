@@ -4,7 +4,9 @@ title: "Crested Gecko Not Eating? Causes and Solutions"
 date: 2026-03-03
 description: "Is your crested gecko refusing food? This guide covers the most common reasons crested geckos stop eating and exactly what to do about each one."
 tags: [crested gecko, not eating, feeding problems, health]
+image: /assets/images/2026-03-03-crested-gecko-not-eating.jpg
 ---
+
 
 
 A crested gecko that stops eating is one of the most common concerns new keepers bring up, and in most cases it is not an emergency. Crested geckos are notorious for going off food for days or even weeks at a time for reasons that have nothing to do with illness. That said, there are situations where a food refusal does signal a real problem.
@@ -15,6 +17,11 @@ A crested gecko that stops eating is one of the most common concerns new keepers
 
 
 This guide walks through every common cause of food refusal in crested geckos, how to identify which one applies to your gecko, and what to do about it.
+
+
+![Crested Gecko Not Eating? Causes and Solutions](/assets/images/2026-03-03-crested-gecko-not-eating.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## First: How Long Has It Been?
 
