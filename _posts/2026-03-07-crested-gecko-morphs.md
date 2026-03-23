@@ -4,12 +4,19 @@ title: "Crested Gecko Morphs: A Visual Guide with Prices"
 date: 2026-03-07
 description: "A complete guide to crested gecko morphs. Learn what morphs are, which ones are best for beginners, and what to expect to pay for each."
 tags: [crested gecko, morphs, buying guide, beginner]
+image: /assets/images/2026-03-07-crested-gecko-morphs.jpg
 ---
+
 
 
 One of the most appealing things about crested geckos is the sheer variety of [color](/2026/02/10/crested-gecko-care-for-beginners.html)s and patterns available in captivity. Unlike many reptiles where appearance is fairly predictable, crested geckos have been selectively bred for decades to produce an enormous range of looks. These variations are called morphs.
 
 Understanding morphs helps you make a better buying decision, set realistic expectations on price, and avoid overpaying for a gecko that looks similar to a much cheaper one.
+
+
+![Crested Gecko Morphs: A Visual Guide with Prices](/assets/images/2026-03-07-crested-gecko-morphs.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Is a Morph?
 
