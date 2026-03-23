@@ -7,7 +7,7 @@ tags: [crested gecko, not eating, feeding problems, health]
 image: /assets/images/2026-03-03-crested-gecko-not-eating.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 A crested gecko that stops eating is one of the most common concerns new keepers bring up, and in most cases it is not an emergency. Crested geckos are notorious for going off food for days or even weeks at a time for reasons that have nothing to do with illness. That said, there are situations where a food refusal does signal a real problem.
 
@@ -157,11 +157,10 @@ Once your gecko is eating again, revisit the fundamentals. Our [Crested Gecko Fe
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Dubia Roaches Live](https://www.amazon.com/s?k=dubia+roaches+live+feeder+insects)**
-- **[Repashy Beardie Buffet](https://www.amazon.com/s?k=repashy+beardie+buffet+gel+food)**
-- **[Reptile Calcium Supplement](https://www.amazon.com/s?k=reptile+calcium+supplement+powder+d3)**
+- **[Dubia Roaches Live](https://www.amazon.com/s?k=dubia+roaches+live+feeder+insects&tag=mbbeekeeping-20)**
+- **[Repashy Beardie Buffet](https://www.amazon.com/s?k=repashy+beardie+buffet+gel+food&tag=mbbeekeeping-20)**
+- **[Reptile Calcium Supplement](https://www.amazon.com/s?k=reptile+calcium+supplement+powder+d3&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
