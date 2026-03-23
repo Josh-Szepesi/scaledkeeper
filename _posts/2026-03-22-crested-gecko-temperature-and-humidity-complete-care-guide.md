@@ -7,6 +7,8 @@ tags: [reptile, crested-gecko, husbandry, temperature, humidity]
 image: /assets/images/2026-03-22-crested-gecko-temperature-and-humidity-complete-care-guide.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Getting temperature and humidity right is the single most impactful thing you can do for your crested gecko's long-term health. Unlike ball pythons or bearded dragons, crested geckos come from a temperate island climate that most hobbyists underestimate. New Caledonia is not a tropical rainforest -- and that distinction changes how you should approach every aspect of your setup.
 
 This guide covers the full picture: target ranges, the biology behind why those ranges matter, how to monitor and maintain them, and what to do when things go wrong.
@@ -62,9 +64,9 @@ Conversely, sustained humidity below 50% causes incomplete sheds and dry, irrita
 
 Accurate monitoring is non-negotiable. Analog gauges sold at pet stores are notoriously inaccurate, often reading 10-15% off on humidity. Digital sensors with calibration capability are worth the investment.
 
-The [Govee Bluetooth Thermometer Hygrometer](https://www.amazon.com/dp/B07R586J37?tag=[sk-tag]) is a reliable and affordable option. It logs data to a smartphone app, so you can review temperature and humidity trends over days rather than just checking a single reading when you happen to walk by. This matters because the conditions at 3 AM (when your gecko is most active) may differ significantly from what you observe at noon.
+The [Govee Bluetooth Thermometer Hygrometer](https://www.amazon.com/dp/B07R586J37?tag=mbbeekeeping-20) is a reliable and affordable option. It logs data to a smartphone app, so you can review temperature and humidity trends over days rather than just checking a single reading when you happen to walk by. This matters because the conditions at 3 AM (when your gecko is most active) may differ significantly from what you observe at noon.
 
-For keepers who want a second sensor at a lower price point, the [REPTIZOO Digital Reptile Thermometer Hygrometer](https://www.amazon.com/dp/B093WDRBPT?tag=[sk-tag]) is a solid backup unit to place at the opposite end of the enclosure -- it mounts easily with a hook or suction cup and is built specifically for reptile tanks.
+For keepers who want a second sensor at a lower price point, the [REPTIZOO Digital Reptile Thermometer Hygrometer](https://www.amazon.com/dp/B093WDRBPT?tag=mbbeekeeping-20) is a solid backup unit to place at the opposite end of the enclosure -- it mounts easily with a hook or suction cup and is built specifically for reptile tanks.
 
 Place sensors mid-enclosure, away from the glass and any heat sources. If you have a tall enclosure, a second sensor near the top can help you understand the thermal gradient.
 
@@ -78,7 +80,7 @@ There is no universal misting schedule because homes vary in baseline humidity, 
 
 **Winter in humid climates:** Once daily or every other day may be sufficient.
 
-For keepers who travel frequently or want hands-off consistency, the [Exo Terra Monsoon RS400 Automatic Rainfall System](https://www.amazon.com/dp/B004G62868?tag=[sk-tag]) is a programmable automatic misting system designed for terrariums. You can set duration and timing for up to two daily misting cycles, which removes the single biggest variable in humidity management: human consistency. See the [manufacturer's product page](https://exo-terra.com/product/monsoon-rs400-high-output-rainfall-system/) for installation details and compatible nozzle configurations.
+For keepers who travel frequently or want hands-off consistency, the [Exo Terra Monsoon RS400 Automatic Rainfall System](https://www.amazon.com/dp/B004G62868?tag=mbbeekeeping-20) is a programmable automatic misting system designed for terrariums. You can set duration and timing for up to two daily misting cycles, which removes the single biggest variable in humidity management: human consistency. See the [manufacturer's product page](https://exo-terra.com/product/monsoon-rs400-high-output-rainfall-system/) for installation details and compatible nozzle configurations.
 
 When misting, use dechlorinated or filtered water. Tap water minerals accumulate on glass and decor over time and can be a mild irritant.
 
@@ -88,18 +90,17 @@ When misting, use dechlorinated or filtered water. Tap water minerals accumulate
 
 **Humidity stays too high:** Increase ventilation, reduce misting frequency, and check that substrate is not sitting in standing water at the bottom of the enclosure. A drainage layer (leca or hydroballs) under bioactive substrate prevents anaerobic conditions.
 
-**Temperature spikes in summer:** Move the enclosure, add airflow, or invest in climate control. The [Inkbird ITC-308 Temperature Controller](https://www.amazon.com/dp/B01HXM5UAC?tag=[sk-tag]) can be paired with a small USB fan or cooling device to automate temperature management, though for most keepers, repositioning the enclosure is the simpler solution.
+**Temperature spikes in summer:** Move the enclosure, add airflow, or invest in climate control. The [Inkbird ITC-308 Temperature Controller](https://www.amazon.com/dp/B01HXM5UAC?tag=mbbeekeeping-20) can be paired with a small USB fan or cooling device to automate temperature management, though for most keepers, repositioning the enclosure is the simpler solution.
 
 **Gecko won't shed cleanly:** Check humidity levels during the week before shedding. Geckos often become reclusive and eat less in the 24-48 hours before a shed. A humid hide (a small hide filled with damp sphagnum moss) gives them a microclimate for shedding without raising ambient humidity to problematic levels. For more on how lighting cycles interact with shedding and general wellbeing, see our guide on [whether crested geckos need UVB lighting](/2026/03/10/do-crested-geckos-need-uvb-lighting).
 
 ## Recommended Products
 
-- **[Govee Bluetooth Thermometer Hygrometer](https://www.amazon.com/dp/B07R586J37?tag=[sk-tag])** -- Accurate digital monitoring with data logging via smartphone app. One of the best low-cost options for enclosure climate tracking.
-- **[Exo Terra Monsoon RS400 Automatic Rainfall System](https://www.amazon.com/dp/B004G62868?tag=[sk-tag])** -- Programmable dual-outlet misting system for consistent humidity maintenance.
-- **[Inkbird ITC-308 Temperature Controller](https://www.amazon.com/dp/B01HXM5UAC?tag=[sk-tag])** -- Plug-and-play thermostat for controlling any heating or cooling device. Useful if your room temperatures swing unpredictably.
-- **[REPTIZOO Digital Reptile Thermometer Hygrometer](https://www.amazon.com/dp/B093WDRBPT?tag=[sk-tag])** -- Affordable backup sensor designed for reptile tanks, with hook and suction cup mounting. Good for dual-point monitoring in larger enclosures.
+- **[Govee Bluetooth Thermometer Hygrometer](https://www.amazon.com/dp/B07R586J37?tag=mbbeekeeping-20)** -- Accurate digital monitoring with data logging via smartphone app. One of the best low-cost options for enclosure climate tracking.
+- **[Exo Terra Monsoon RS400 Automatic Rainfall System](https://www.amazon.com/dp/B004G62868?tag=mbbeekeeping-20)** -- Programmable dual-outlet misting system for consistent humidity maintenance.
+- **[Inkbird ITC-308 Temperature Controller](https://www.amazon.com/dp/B01HXM5UAC?tag=mbbeekeeping-20)** -- Plug-and-play thermostat for controlling any heating or cooling device. Useful if your room temperatures swing unpredictably.
+- **[REPTIZOO Digital Reptile Thermometer Hygrometer](https://www.amazon.com/dp/B093WDRBPT?tag=mbbeekeeping-20)** -- Affordable backup sensor designed for reptile tanks, with hook and suction cup mounting. Good for dual-point monitoring in larger enclosures.
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 ## FAQ
 
