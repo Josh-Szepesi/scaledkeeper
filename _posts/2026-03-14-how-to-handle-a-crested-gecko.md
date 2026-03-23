@@ -3,11 +3,18 @@ layout: post
 title: "How to Handle a Crested Gecko: Taming Tips That Actually Work"
 date: 2026-03-14
 description: "Learn how to handle a crested gecko with confidence. Our taming guide covers the cup method, reading body language, and building real trust."
+image: /assets/images/2026-03-14-how-to-handle-a-crested-gecko.jpg
 ---
+
 
 Crested geckos are one of the more handleable reptiles you can keep, but that does not mean they warm up to you automatically. I have found that new keepers often rush the process and end up with a gecko that drops its tail, refuses food for a week, or bolts every time the enclosure opens. With a methodical approach and realistic expectations, most crested geckos will accept regular handling within 4-8 weeks of coming home.
 
 **Safety Note:** Crested geckos can and do jump unexpectedly - sometimes from a standing start with no warning. Always handle them close to a soft surface. Sitting on the floor or over a bed is much safer than standing at chest height with the gecko. A fall from more than 3-4 feet can cause serious injury. If your gecko jumps and hits a hard surface, inspect it carefully and watch for unusual behavior, lethargy, or refusal to eat over the next 24 hours.
+
+
+![How to Handle a Crested Gecko: Taming Tips That Actually Work](/assets/images/2026-03-14-how-to-handle-a-crested-gecko.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@craigmanners_com?utm_source=artlines_blog&utm_medium=referral">Craig Manners</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Rushing Taming Backfires
 
