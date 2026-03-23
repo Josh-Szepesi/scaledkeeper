@@ -7,7 +7,7 @@ tags: [crested gecko, morphs, buying guide, beginner]
 image: /assets/images/2026-03-07-crested-gecko-morphs.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 One of the most appealing things about crested geckos is the sheer variety of [color](/2026/02/10/crested-gecko-care-for-beginners.html)s and patterns available in captivity. Unlike many reptiles where appearance is fairly predictable, crested geckos have been selectively bred for decades to produce an enormous range of looks. These variations are called morphs.
 
@@ -158,11 +158,10 @@ Want to breed for specific morphs? Start by understanding [how to tell male from
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Bearded Dragon Habitat Kit](https://www.amazon.com/s?k=bearded+dragon+starter+habitat+kit)**
-- **[Reptile Infrared Temp Gun](https://www.amazon.com/s?k=reptile+infrared+temperature+gun)**
-- **[Bearded Dragon Care Book](https://www.amazon.com/s?k=bearded+dragon+care+guide+book)**
+- **[Bearded Dragon Habitat Kit](https://www.amazon.com/s?k=bearded+dragon+starter+habitat+kit&tag=mbbeekeeping-20)**
+- **[Reptile Infrared Temp Gun](https://www.amazon.com/s?k=reptile+infrared+temperature+gun&tag=mbbeekeeping-20)**
+- **[Bearded Dragon Care Book](https://www.amazon.com/s?k=bearded+dragon+care+guide+book&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
