@@ -7,15 +7,14 @@ tags: [crested gecko, beginner, care guide]
 image: /assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg
 ---
 
-<img src="/assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg" alt="2026 02 10 Crested Gecko Care For Beginners" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
-<p class="image-credit">Photo by <a href="https://unsplash.com/@tyfiero?utm_source=artlines_blog&utm_medium=referral">Ty Fiero</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
-
 Crested geckos are one of the best starter reptiles on the market  -  and for good reason. They're hardy, handleable, don't need UV lighting, and thrive at room temperature in most homes. If you're just getting started, this guide covers everything you need to set up a healthy enclosure and keep your gecko thriving long-term.
 
 <div class="safety-note">
 **Safety Note:** Always wash your hands before and after handling your crested gecko. If you notice prolonged lethargy, rapid weight loss, or abnormal stools, consult a reptile-experienced veterinarian promptly rather than attempting to self-diagnose.
 </div>
 
+<img src="/assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg" alt="2026 02 10 Crested Gecko Care For Beginners" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tyfiero?utm_source=artlines_blog&utm_medium=referral">Ty Fiero</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Makes Crested Geckos Good for Beginners?
 
