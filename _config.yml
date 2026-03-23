@@ -3,6 +3,7 @@ description: Reptile care guides for keepers of all levels.
 url: "https://scaledkeeper.com"
 baseurl: ""
 theme: minima
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
   - jekyll-sitemap
