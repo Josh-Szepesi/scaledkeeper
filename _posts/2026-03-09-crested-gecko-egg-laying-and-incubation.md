@@ -4,7 +4,9 @@ title: "Crested Gecko Egg Laying and Incubation: A Complete Keeper's Guide"
 date: 2026-03-09
 description: "Learn how to support crested gecko egg laying, safely collect eggs, and incubate them successfully. Practical tips from experienced keepers."
 tags: [reptile, crested-gecko, breeding, incubation]
+image: /assets/images/2026-03-09-crested-gecko-egg-laying-and-incubation.jpg
 ---
+
 
 
 Crested geckos are relatively straightforward to breed in captivity, but the egg-laying and incubation phase is where many first-time breeders run into trouble. Eggs get damaged during collection, humidity goes wrong, or hatchlings arrive but fail to thrive. This guide walks you through every stage with practical advice drawn from real keeper experience.
@@ -13,6 +15,11 @@ Crested geckos are relatively straightforward to breed in captivity, but the egg
 **Safety Note:** Incubators can malfunction - always verify [temperature](/2026/02/19/crested-gecko-temperature-humidity-guide.html) with a secondary thermometer and check eggs every few days. Eggs that turn mushy, collapse, or develop visible mold are not viable and should be removed to prevent contaminating healthy eggs.
 </div>
 
+
+
+![Crested Gecko Egg Laying and Incubation: A Complete Keeper's Guide](/assets/images/2026-03-09-crested-gecko-egg-laying-and-incubation.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tateveeer?utm_source=artlines_blog&utm_medium=referral">Tatev Ayvazyan</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Understanding the Crested Gecko Breeding Cycle
 
