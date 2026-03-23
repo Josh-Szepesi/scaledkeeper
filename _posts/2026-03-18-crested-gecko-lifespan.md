@@ -3,11 +3,18 @@ layout: post
 title: "Crested Gecko Lifespan: How Long They Live and How to Maximize It"
 date: 2026-03-18
 description: "Crested gecko lifespan can reach 20+ years in captivity. Learn the key husbandry decisions around temperature, diet, and stress that keep them healthy longest."
+image: /assets/images/2026-03-18-crested-gecko-lifespan.jpg
 ---
+
 
 Crested geckos are not a short-term commitment. The crested gecko lifespan in captivity averages 15 to 20 years, and I have spoken with experienced keepers who have animals pushing 25. That kind of longevity does not happen by accident - it comes down to the decisions you make in the first year of keeping and the consistency you maintain every year after. Enclosure setup, diet quality, temperature management, and stress levels all play a measurable role.
 
 **Safety Note:** Never let an enclosure overheat. Crested geckos have a critical thermal maximum around 82 degrees F (28 degrees C), and even brief exposure to temperatures above 85 degrees F can cause fatal heat stress. Keep a digital thermometer inside the enclosure at all times and check it daily during warm months - not just the ambient room temperature.
+
+
+![Crested Gecko Lifespan: How Long They Live and How to Maximize It](/assets/images/2026-03-18-crested-gecko-lifespan.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@mbornhorst?utm_source=artlines_blog&utm_medium=referral">Matthew Bornhorst</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## How Long Do Crested Geckos Actually Live?
 
