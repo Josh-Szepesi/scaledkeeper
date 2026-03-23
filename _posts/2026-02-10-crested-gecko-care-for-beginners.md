@@ -6,6 +6,10 @@ description: "New to crested geckos? This complete beginner's guide covers setup
 tags: [crested gecko, beginner, care guide]
 image: /assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg
 ---
+
+<img src="/assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg" alt="2026 02 10 Crested Gecko Care For Beginners" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tyfiero?utm_source=artlines_blog&utm_medium=referral">Ty Fiero</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+
 Crested geckos are one of the best starter reptiles on the market  -  and for good reason. They're hardy, handleable, don't need UV lighting, and thrive at room temperature in most homes. If you're just getting started, this guide covers everything you need to set up a healthy enclosure and keep your gecko thriving long-term.
 
 <div class="safety-note">
@@ -138,5 +142,3 @@ Ready to build out your gecko's home? Check out our [complete enclosure setup gu
 <p><strong>About the Author</strong></p>
 <p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p>
 </div>
-
-<p class="image-credit">Photo by <a href="https://unsplash.com/@dawnoftime?utm_source=artlines_blog&utm_medium=referral">Aurora K</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
