@@ -7,7 +7,7 @@ tags: [crested gecko, shedding, health, care]
 image: /assets/images/2026-02-25-crested-gecko-shedding.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Shedding is one of the most misunderstood aspects of crested gecko care. New keepers often panic when they notice their gecko looking dull and chalky, or when they never seem to catch the gecko in the act of shedding at all. Understanding what normal shedding looks like and when to intervene makes this a straightforward part of keeping rather than a source of ongoing anxiety.
 
@@ -90,7 +90,7 @@ For stuck shed on toes, a warm soak works better than spot treatment:
 3. After soaking, gently roll the toes between your fingers using a damp cotton swab to work the shed loose
 4. Never pull or tug. If the shed does not come away with gentle pressure after soaking, repeat the soak rather than forcing it
 
-The [Zoo Med Repti Shedding Aid](https://www.amazon.com/s?k=reptile+shedding+aid+spray) can be applied to stubborn areas to help loosen stuck shed, though warm water is usually sufficient for most cases.
+The [Zoo Med Repti Shedding Aid](https://www.amazon.com/s?k=reptile+shedding+aid+spray&tag=mbbeekeeping-20) can be applied to stubborn areas to help loosen stuck shed, though warm water is usually sufficient for most cases.
 
 For stuck shed around the eyes, do not attempt home removal if you are not confident in what you are doing. Eye injuries in geckos are serious. A reptile vet can remove periocular stuck shed safely if home treatment is not working after one or two attempts.
 
