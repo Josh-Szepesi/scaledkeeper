@@ -7,7 +7,7 @@ tags: [reptile, crested-gecko, breeding, incubation]
 image: /assets/images/2026-03-09-crested-gecko-egg-laying-and-incubation.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Crested geckos are relatively straightforward to breed in captivity, but the egg-laying and incubation phase is where many first-time breeders run into trouble. Eggs get damaged during collection, humidity goes wrong, or hatchlings arrive but fail to thrive. This guide walks you through every stage with practical advice drawn from real keeper experience.
 
@@ -75,13 +75,13 @@ Use a small deli cup or shoebox-sized plastic container with a tight-fitting lid
 
 Do not seal the container completely. Make 2-3 small pinholes in the lid to allow minimal air exchange without rapid moisture loss. Check the substrate every 1-2 weeks and mist lightly if it is drying out.
 
-[Exo Terra Incubation Substrate](https://www.amazon.com/s?k=reptile+egg+incubator+digital) works well for maintaining consistent humidity without becoming waterlogged.
+[Exo Terra Incubation Substrate](https://www.amazon.com/s?k=reptile+egg+incubator+digital&tag=mbbeekeeping-20) works well for maintaining consistent humidity without becoming waterlogged.
 
 ### To Use a Mechanical Incubator or Not?
 
 For crested geckos, a dedicated reptile incubator is rarely necessary unless your home temperatures fluctuate dramatically. If your home stays between 68-76°F year-round, a room-temperature setup is sufficient and produces excellent results. If you live somewhere with hot summers, a mini-fridge-based incubator set to 72°F offers more consistent control.
 
-[Zoo Med ReptiTemp 500R Incubator](https://www.amazon.com/s?k=reptile+egg+incubator+digital) is a reliable mid-range option if you decide to invest in one.
+[Zoo Med ReptiTemp 500R Incubator](https://www.amazon.com/s?k=reptile+egg+incubator+digital&tag=mbbeekeeping-20) is a reliable mid-range option if you decide to invest in one.
 
 ## Monitoring Development
 
@@ -95,7 +95,7 @@ Hatchlings will pip (break through the shell) and may remain partially inside fo
 
 Transfer hatchlings to a small enclosure (a 6-quart shoebox container works well) once they have fully emerged and the egg sac is absorbed. Offer their first meal at 5-7 days old. First feeding is typically Pangea or Repashy meal replacement paste placed on the enclosure wall, supplemented by small feeder insects once they are feeding consistently.
 
-[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/s?k=reptile+egg+incubator+digital) is an excellent first food and remains a staple throughout their lives.
+[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/s?k=reptile+egg+incubator+digital&tag=mbbeekeeping-20) is an excellent first food and remains a staple throughout their lives.
 
 ## Common Mistakes and How to Avoid Them
 
