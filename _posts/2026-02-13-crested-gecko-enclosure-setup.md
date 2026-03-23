@@ -6,6 +6,10 @@ description: "Learn how to set up a crested gecko enclosure from scratch. Covers
 tags: [crested gecko, enclosure, setup, beginner]
 image: /assets/images/2026-02-13-crested-gecko-enclosure-setup.jpg
 ---
+
+<img src="/assets/images/2026-02-13-crested-gecko-enclosure-setup.jpg" alt="Crested Gecko Enclosure Setup: Step-by-Step Guide" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
+<p class="image-credit">Photo by <a href="https://unsplash.com/@zhenyao_photo?utm_source=artlines_blog&utm_medium=referral">Zhen Yao</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+
 Getting the enclosure right before your gecko arrives is the single most important thing you can do as a new keeper. A properly set up tank means less stress for your gecko and fewer problems for you in the first weeks. This guide walks through every component in order, so you can set up with confidence.
 
 <div class="safety-note">
@@ -141,5 +145,3 @@ Next up: make sure your temps and humidity are correct. Read our [Temperature an
 <p><strong>About the Author</strong></p>
 <p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p>
 </div>
-
-<p class="image-credit">Photo by <a href="https://unsplash.com/@zhenyao_photo?utm_source=artlines_blog&utm_medium=referral">Zhen Yao</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
