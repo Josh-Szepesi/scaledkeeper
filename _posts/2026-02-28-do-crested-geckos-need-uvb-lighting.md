@@ -4,7 +4,9 @@ title: "Do Crested Geckos Need UVB Lighting?"
 date: 2026-02-28
 description: "Find out if crested geckos need UVB lighting, what the research says, and how to set up the right lighting for a thriving crestie."
 tags: [crested gecko, UVB lighting, reptile care, gecko husbandry]
+image: /assets/images/2026-02-28-do-crested-geckos-need-uvb-lighting.jpg
 ---
+
 
 
 For years, the crested gecko hobby operated on a simple assumption: these crepuscular, forest-floor dwellers from New Caledonia are naturally shaded animals, so UVB is optional. That assumption is now being challenged by a growing body of research and keeper experience. The short answer is nuanced: crested geckos can survive without UVB, but the evidence increasingly suggests they *thrive* with it.
@@ -13,6 +15,11 @@ For years, the crested gecko hobby operated on a simple assumption: these crepus
 **Safety Note:** Never look directly into a UVB bulb when it is on. Replace UVB bulbs every 6-12 months depending on brand - they stop emitting UV long before the visible light burns out. A Solarmeter is the only reliable way to verify output.
 </div>
 
+
+
+![Do Crested Geckos Need UVB Lighting?](/assets/images/2026-02-28-do-crested-geckos-need-uvb-lighting.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Is UVB and Why Does It Matter?
 
