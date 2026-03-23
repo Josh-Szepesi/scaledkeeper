@@ -7,7 +7,7 @@ tags: [crested gecko, pangea, repashy, diet, food]
 image: /assets/images/2026-03-10-pangea-vs-repashy.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 If you have spent any time researching crested gecko care, you have already seen these two names come up constantly. Pangea and Repashy are the dominant brands in the crested gecko diet powder market, and both have loyal followings. The honest answer is that either one will keep your gecko healthy. But there are real differences worth understanding before you commit to one or stock up on the other.
 
@@ -37,7 +37,7 @@ Repashy Superfoods offers several formulas relevant to crested gecko keepers. Th
 
 Repashy formulas tend to be slightly thicker when mixed and have a more pronounced smell that some geckos find very attractive. The ingredient quality is high and the brand has decades of use in the hobby backing its reputation.
 
-The [Repashy Crested Gecko MRP](https://amazon.com/dp/B001IQSB9S) is the flagship product and the one most keepers start with.
+The [Repashy Crested Gecko MRP](https://amazon.com/dp/B001IQSB9S?tag=mbbeekeeping-20) is the flagship product and the one most keepers start with.
 
 Repashy is also widely available through pet stores and online retailers, which makes it easy to source consistently.
 
@@ -52,7 +52,7 @@ Pangea Reptile produces a broader lineup of flavors than Repashy, which gives ke
 
 Pangea formulas tend to mix slightly smoother than Repashy and have a softer smell. Many keepers report that geckos who ignore Repashy will eat Pangea readily, and vice versa.
 
-The [Pangea Fruit Mix Complete](https://amazon.com/dp/B00BKBYLG4) is the best starting point if you are choosing Pangea for the first time.
+The [Pangea Fruit Mix Complete](https://amazon.com/dp/B00BKBYLG4?tag=mbbeekeeping-20) is the best starting point if you are choosing Pangea for the first time.
 
 ## Nutrition: How Do They Compare?
 
