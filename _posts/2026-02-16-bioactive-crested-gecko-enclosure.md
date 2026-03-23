@@ -7,6 +7,7 @@ tags: [crested gecko, bioactive, enclosure, advanced]
 image: /assets/images/2026-02-16-bioactive-crested-gecko-enclosure.jpg
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 A bioactive enclosure is one of the most rewarding setups you can build for a crested gecko. Done correctly, it creates a living ecosystem that manages its own waste, maintains [humidity](/2026/02/19/crested-gecko-temperature-humidity-guide.html) naturally, and gives your gecko an environment that closely mirrors its native habitat in New Caledonia. It also looks genuinely beautiful in a way that a paper towel and plastic hide setup never will.
 
@@ -18,7 +19,7 @@ This guide covers everything you need to build a functional bioactive crested ge
 <p class="image-credit">Photo by <a href="https://unsplash.com/@jym007?utm_source=artlines_blog&utm_medium=referral">Jean-Yves Matroule</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 <div class="safety-note">
-**Safety Note:** Never use potting soil that contains perlite, fertilizers, or pesticides in a bioactive enclosure - these can be toxic to geckos and cleanup crew. Always verify any plant species is non-toxic before adding it to the enclosure.
+<strong>Safety Note:</strong> Never use potting soil that contains perlite, fertilizers, or pesticides in a bioactive enclosure - these can be toxic to geckos and cleanup crew. Always verify any plant species is non-toxic before adding it to the enclosure.
 </div>
 
 ## Is Bioactive Right for You?
@@ -37,7 +38,7 @@ If you want the simplest possible setup, coco fiber substrate and a few fake pla
 
 The minimum enclosure size for a bioactive crested gecko setup is 18" x 18" x 24". Larger is better. Bioactive enclosures benefit from more soil volume, more plant space, and more room for the cleanup crew to work. A 24" x 18" x 36" enclosure is ideal for a single adult and gives you significantly more design flexibility.
 
-Front-opening glass terrariums work best for bioactive builds. The [Exo Terra 18x18x24](https://amazon.com/dp/B000AQTFR4) and the [BioDude Terra Fauna](https://www.amazon.com/s?k=bioactive+reptile+substrate+mix) are both purpose-built for naturalistic setups and include raised bottom frames for drainage layer access.
+Front-opening glass terrariums work best for bioactive builds. The [Exo Terra 18x18x24](https://amazon.com/dp/B000AQTFR4?tag=mbbeekeeping-20) and the [BioDude Terra Fauna](https://www.amazon.com/s?k=bioactive+reptile+substrate+mix&tag=mbbeekeeping-20) are both purpose-built for naturalistic setups and include raised bottom frames for drainage layer access.
 
 Screen tops are essential for bioactive enclosures. The enclosure needs airflow to prevent anaerobic conditions in the substrate, which cause foul odors and can harm the gecko and plants alike.
 
@@ -49,7 +50,7 @@ Use 1.5 to 2 inches of hydroton expanded clay balls or lava rock. Both are porou
 
 Place a layer of fine fiberglass mesh or weed barrier fabric on top of the drainage layer. This barrier separates it from the substrate above while allowing water to pass through freely. Without this separation, substrate gradually migrates down into the drainage layer and compromises the system over time.
 
-The [Josh's Frogs HydroBalls](https://amazon.com/dp/B00BSXE1Z4) are a reliable and widely used option for the drainage layer in bioactive builds.
+The [Josh's Frogs HydroBalls](https://amazon.com/dp/B00BSXE1Z4?tag=mbbeekeeping-20) are a reliable and widely used option for the drainage layer in bioactive builds.
 
 ## The Substrate Mix
 
@@ -65,7 +66,7 @@ The most widely used substrate mix for crested gecko bioactive enclosures is the
 
 Mix these components thoroughly before adding to the enclosure. Aim for a substrate depth of 3 to 4 inches minimum. More depth supports better plant root development and gives the cleanup crew more space to work.
 
-Pre-mixed options like the [BioDude Terra Fauna substrate](https://amazon.com/dp/B07QNQP8YZ) are worth considering if sourcing individual components feels overwhelming. They are more expensive per volume but consistent in quality and ready to use.
+Pre-mixed options like the [BioDude Terra Fauna substrate](https://amazon.com/dp/B07QNQP8YZ?tag=mbbeekeeping-20) are worth considering if sourcing individual components feels overwhelming. They are more expensive per volume but consistent in quality and ready to use.
 
 Moisten the substrate before adding it to the enclosure. It should feel like a wrung-out sponge: damp throughout but not dripping when squeezed.
 
@@ -102,7 +103,7 @@ The standard cleanup crew for a crested gecko bioactive enclosure consists of:
 
 **Springtails (Collembola):** microscopic decomposers that consume mold, fungal growth, and fine organic particles the isopods miss. They are the first line of defense against mold outbreaks in the substrate. Add a culture of springtails at the same time as isopods.
 
-The [Josh's Frogs Bioactive Starter Kit](https://amazon.com/dp/B08CXQZQZP) includes both isopods and springtails and is a convenient starting point for first-time bioactive builders.
+The [Josh's Frogs Bioactive Starter Kit](https://amazon.com/dp/B08CXQZQZP?tag=mbbeekeeping-20) includes both isopods and springtails and is a convenient starting point for first-time bioactive builders.
 
 Introduce the cleanup crew to the enclosure before adding the gecko. Give them two to four weeks to establish and begin colonizing the substrate before the gecko moves in.
 
@@ -110,7 +111,7 @@ Introduce the cleanup crew to the enclosure before adding the gecko. Give them t
 
 Live plants require adequate light to survive. The lighting needs of a bioactive enclosure are higher than a standard setup with artificial plants.
 
-A full-spectrum LED grow light or T5 HO fluorescent fixture running 10 to 12 hours per day supports most vivarium plants reliably. The [Arcadia Jungle Dawn LED Bar](https://amazon.com/dp/B07BFBZQZ7) is a popular choice in the bioactive community for its output, spectrum, and low heat production.
+A full-spectrum LED grow light or T5 HO fluorescent fixture running 10 to 12 hours per day supports most vivarium plants reliably. The [Arcadia Jungle Dawn LED Bar](https://amazon.com/dp/B07BFBZQZ7?tag=mbbeekeeping-20) is a popular choice in the bioactive community for its output, spectrum, and low heat production.
 
 Avoid placing the enclosure in direct sunlight as a substitute for artificial lighting. Sunlight causes rapid temperature spikes that can kill a crested gecko within hours.
 
