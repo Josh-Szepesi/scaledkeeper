@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Do Crested Geckos Eat? Feeding Schedule and Diet Guide"
+title: "What Do Crested Geckos Eat Feeding Schedule and Diet Guide"
 date: 2026-02-22
 description: "A complete guide to feeding crested geckos. Covers crested gecko diet powder, live insects, feeding schedules, and how to know if your gecko is eating enough."
 tags: [crested gecko, feeding, diet, care]
@@ -17,7 +17,7 @@ Feeding crested geckos is one of the easier parts of keeping them, but there are
 
 
 
-![What Do Crested Geckos Eat? Feeding Schedule and Diet Guide](/assets/images/2026-02-22-crested-gecko-feeding-guide.jpg)
+![What Do Crested Geckos Eat Feeding Schedule and Diet Guide](/assets/images/2026-02-22-crested-gecko-feeding-guide.jpg)
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
@@ -133,7 +133,7 @@ At room temperature in a humid enclosure, CGD begins to ferment within 24 to 36 
 
 ## Related Reading
 
-- [Why Is My Crested Gecko Not Eating?](/2026/03/03/crested-gecko-not-eating.html)
+- [Why Is My Crested Gecko Not Eating](/2026/03/03/crested-gecko-not-eating.html)
 - [Crested Gecko Care for Beginners](/2026/02/10/crested-gecko-care-for-beginners.html)
 
 If your gecko has stopped eating, don't panic yet. Read our [Crested Gecko Not Eating guide](/2026/03/03/crested-gecko-not-eating.html) to troubleshoot.
