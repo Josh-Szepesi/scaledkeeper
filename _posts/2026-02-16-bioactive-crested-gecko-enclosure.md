@@ -22,7 +22,7 @@ This guide covers everything you need to build a functional bioactive crested ge
 <strong>Safety Note:</strong> Never use potting soil that contains perlite, fertilizers, or pesticides in a bioactive enclosure - these can be toxic to geckos and cleanup crew. Always verify any plant species is non-toxic before adding it to the enclosure.
 </div>
 
-## Is Bioactive Right for You
+## Is Bioactive Right for You?
 
 Before getting into the build, it is worth being honest about what bioactive requires.
 
@@ -176,7 +176,7 @@ Yes, with some adjustments. Juveniles under 10 grams do better in smaller enclos
 - [Crested Gecko Enclosure Setup](/2026/02/13/crested-gecko-enclosure-setup.html)
 - [Crested Gecko Temperature and Humidity Guide](/2026/02/19/crested-gecko-temperature-humidity-guide.html)
 
-Curious whether your enclosure setup is dialed in correctly Review our [Crested Gecko Enclosure Setup guide](/2026/02/13/crested-gecko-enclosure-setup.html) for the full picture.
+Curious whether your enclosure setup is dialed in correctly? Review our [Crested Gecko Enclosure Setup guide](/2026/02/13/crested-gecko-enclosure-setup.html) for the full picture.
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
