@@ -17,7 +17,7 @@ Crested geckos are not a short-term commitment. The crested gecko lifespan in ca
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@mbornhorst?utm_source=artlines_blog&utm_medium=referral">Matthew Bornhorst</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## How Long Do Crested Geckos Actually Live?
+## How Long Do Crested Geckos Actually Live
 
 In the wild, crested geckos (Correlophus ciliatus) were believed extinct until rediscovered in New Caledonia in 1994. Wild lifespan data remains limited, but the [University of Michigan Animal Diversity Web](https://animaldiversity.org/accounts/Correlophus_ciliatus/) documents this species in detail - wild animals face threats from predators, drought, and habitat loss that captive animals do not.
 
@@ -128,7 +128,7 @@ Diet is one of the most important factors, but temperature and stress management
 
 - [Crested Gecko Temperature and Humidity Guide](https://scaledkeeper.com/2026/02/19/crested-gecko-temperature-humidity-guide.html)
 - [Common Crested Gecko Health Problems](https://scaledkeeper.com/2026/03/16/common-crested-gecko-health-problems.html)
-- [Do Crested Geckos Need UVB Lighting?](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html)
+- [Do Crested Geckos Need UVB Lighting](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html)
 
 If you want to build the highest-probability setup for long-term health, start with the temperature and humidity guide - getting those two variables dialed in is the single most impactful change most keepers can make.
 
