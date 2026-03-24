@@ -27,7 +27,7 @@ Skipping this step is the single most common reason new keepers report poor temp
 
 Before you pick up your gecko, spend a few sessions just opening the enclosure and letting your hand rest near the entrance. Do not reach in and do not grab. I do this for 3-5 minutes per session, once a day, for the first few days after the initial quarantine period ends. The gecko learns that your scent is not associated with a threat and that the enclosure opening does not automatically mean something bad happens.
 
-Some keepers report faster results by putting a small amount of [crested gecko meal replacement powder](https://www.amazon.com/s?k=crested+gecko+meal+replacement+powder&tag=mbbeekeeping-20) on their fingertip as a lure. A tiny smear of Pangea or Repashy on your finger can prompt a curious gecko to approach voluntarily rather than having you approach it. Voluntary contact is far more valuable, behaviorally speaking, than any amount of forced handling. It shifts the dynamic from predator-prey to food-source, which is a much better foundation.
+Some keepers report faster results by putting a small amount of [crested gecko meal replacement powder](https://www.amazon.com/s?k=crested+gecko+meal+replacement+powder) on their fingertip as a lure. A tiny smear of Pangea or Repashy on your finger can prompt a curious gecko to approach voluntarily rather than having you approach it. Voluntary contact is far more valuable, behaviorally speaking, than any amount of forced handling. It shifts the dynamic from predator-prey to food-source, which is a much better foundation.
 
 ## Step 2: The Cup Method for First Handling Sessions
 
@@ -70,7 +70,7 @@ Recognizing stress signs early and ending the session proactively does more for 
 
 For most captive-bred crested geckos purchased as juveniles, expect calm and predictable handling by 6-10 weeks with consistent sessions starting after the initial settling period. Wild-caught or "farm bred" animals take longer - sometimes significantly - and a small percentage never become comfortable with regular handling regardless of technique.
 
-Age at purchase matters. Hatchlings under 3 months old are too fast and fragile for safe handling practice. I recommend waiting until a gecko reaches at least 10-12 grams before starting any taming sessions. An inexpensive [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale+0.1g&tag=mbbeekeeping-20) that reads to 0.1 gram is worth having anyway since regular weight checks are the most reliable early indicator of health problems.
+Age at purchase matters. Hatchlings under 3 months old are too fast and fragile for safe handling practice. I recommend waiting until a gecko reaches at least 10-12 grams before starting any taming sessions. An inexpensive [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale+0.1g) that reads to 0.1 gram is worth having anyway since regular weight checks are the most reliable early indicator of health problems.
 
 Genetics matter too. Some bloodlines and some individual geckos are simply more nervous than others. If you have done everything right and your gecko is still very flighty after 12 weeks, that is probably its personality rather than a training failure.
 
