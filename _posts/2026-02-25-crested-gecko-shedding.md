@@ -27,7 +27,7 @@ Like all reptiles, crested geckos shed their outer layer of skin as they grow. U
 
 Juveniles shed more frequently than adults because they are growing rapidly. Adults shed less often once growth slows but continue shedding throughout their lives as part of normal skin renewal.
 
-## How Often Do Crested Geckos Shed
+## How Often Do Crested Geckos Shed?
 
 Juveniles under six months old may shed every two to four weeks. Subadults between six months and one year shed roughly once a month. Adult crested geckos typically shed every four to eight weeks, though this varies by individual and season.
 
@@ -57,7 +57,7 @@ During the pre-shed phase, increase misting frequency slightly to keep humidity 
 
 Do not handle the gecko during a pre-shed or active shed. Handling disrupts the process and can cause the shed to tear unevenly, increasing the risk of stuck shed on sensitive areas.
 
-## What Is Stuck Shed
+## What Is Stuck Shed?
 
 Stuck shed, also called dysecdysis, occurs when pieces of old skin fail to come off cleanly and remain attached to the gecko after the shed is otherwise complete. It is the most common shedding problem in crested geckos and is almost always caused by inadequate humidity.
 
