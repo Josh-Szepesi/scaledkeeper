@@ -77,7 +77,7 @@ Do not seal the container completely. Make 2-3 small pinholes in the lid to allo
 
 [Exo Terra Incubation Substrate](https://www.amazon.com/s?k=reptile+egg+incubator+digital) works well for maintaining consistent humidity without becoming waterlogged.
 
-### To Use a Mechanical Incubator or Not
+### To Use a Mechanical Incubator or Not?
 
 For crested geckos, a dedicated reptile incubator is rarely necessary unless your home temperatures fluctuate dramatically. If your home stays between 68-76°F year-round, a room-temperature setup is sufficient and produces excellent results. If you live somewhere with hot summers, a mini-fridge-based incubator set to 72°F offers more consistent control.
 
