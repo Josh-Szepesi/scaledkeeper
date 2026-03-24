@@ -66,7 +66,7 @@ Crested geckos communicate clearly if you know what to look for. I have found th
 
 Recognizing stress signs early and ending the session proactively does more for long-term taming than pushing through resistance. A gecko that chooses to stay is better than one that tolerates being held.
 
-## How Long Does Taming Actually Take
+## How Long Does Taming Actually Take?
 
 For most captive-bred crested geckos purchased as juveniles, expect calm and predictable handling by 6-10 weeks with consistent sessions starting after the initial settling period. Wild-caught or "farm bred" animals take longer - sometimes significantly - and a small percentage never become comfortable with regular handling regardless of technique.
 
@@ -99,7 +99,7 @@ Children can handle crested geckos safely with adult supervision, but the setup 
 
 Short sessions work best with children. Five minutes of successful handling is better than ten minutes that ends with a stressed gecko or a bitten finger. Make it a calm, positive experience and the gecko will continue to improve with each interaction.
 
-For more context on whether crested geckos are appropriate pets for different household situations, see [Are Crested Geckos Good Pets for Beginners](https://scaledkeeper.com/2026/02/10/crested-gecko-care-for-beginners.html).
+For more context on whether crested geckos are appropriate pets for different household situations, see [Are Crested Geckos Good Pets for Beginners?](https://scaledkeeper.com/2026/02/10/crested-gecko-care-for-beginners.html).
 
 ## Hygiene: Before and After Every Session
 
@@ -133,7 +133,7 @@ Crested geckos do not have movable eyelids - they clean their eyes with their to
 
 - [Crested Gecko Temperature and Humidity Guide](https://scaledkeeper.com/2026/02/19/crested-gecko-temperature-humidity-guide.html)
 - [Crested Gecko Shedding: What Is Normal, What Is Not](https://scaledkeeper.com/2026/02/25/crested-gecko-shedding.html)
-- [Are Crested Geckos Good Pets for Beginners](https://scaledkeeper.com/2026/02/10/crested-gecko-care-for-beginners.html)
+- [Are Crested Geckos Good Pets for Beginners?](https://scaledkeeper.com/2026/02/10/crested-gecko-care-for-beginners.html)
 
 If your gecko is responding poorly to handling sessions and you have ruled out technique issues, the shedding guide covers how retained shed affects gecko behavior and what to look for.
 
