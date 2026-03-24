@@ -19,7 +19,7 @@ Crested geckos are expert at looking normal even when they're not. Their dorsal 
 
 We weigh every gecko in our collection at least once a month and log each measurement. It takes about five minutes total for a small collection, and it has flagged health issues well before they became serious - a gecko holding steady at a weight it should have passed months ago, or one that dropped a gram over two weeks for no obvious reason.
 
-A basic digital scale that reads in 0.1-gram increments is all you need. The [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8?tag=mbbeekeeping-20) is a common choice among reptile keepers - it reads down to 0.001 grams, which is genuinely useful for monitoring hatchlings.
+A basic digital scale that reads in 0.1-gram increments is all you need. The [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8) is a common choice among reptile keepers - it reads down to 0.001 grams, which is genuinely useful for monitoring hatchlings.
 
 ## Crested Gecko Weight Chart by Age
 
@@ -48,7 +48,7 @@ Hatchlings are small, and they grow slowly at first. Most emerge from the egg at
 
 In our experience with hatchlings, the first reliable weight gain usually starts around weeks three to five once feeding patterns establish. A hatchling that has been eating for a month should be gaining at least 0.5 g per week. If growth has stalled completely past the two-month mark, review your feeding approach before assuming illness.
 
-At this stage, diet consistency matters more than variety. Most experienced keepers stick with a single high-quality crested gecko meal replacement powder (MRP) for the first few months. [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B01CPIFMFS?tag=mbbeekeeping-20) is one of the most widely used and accepted formulas - hatchlings that are eating will usually take to it without issues. See our [comparison of Pangea vs. Repashy](/pangea-vs-repashy/) for a closer look at diet options.
+At this stage, diet consistency matters more than variety. Most experienced keepers stick with a single high-quality crested gecko meal replacement powder (MRP) for the first few months. [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B01CPIFMFS) is one of the most widely used and accepted formulas - hatchlings that are eating will usually take to it without issues. See our [comparison of Pangea vs. Repashy](/pangea-vs-repashy/) for a closer look at diet options.
 
 ### Juvenile Stage (3 to 12 months)
 
@@ -100,13 +100,13 @@ Weigh at roughly the same time of day each session (evening, after lights-off is
 
 Weight and growth do not happen in a vacuum. A gecko that is consistently cold, stressed by handling, or living in an enclosure that is too small will grow more slowly and eat less reliably. Our [crested gecko temperature and humidity guide](/crested-gecko-temperature-and-humidity-complete-care-guide/) covers the environmental parameters that underpin healthy growth.
 
-For keepers setting up an enclosure for the first time, the [Exo Terra Crested Gecko Habitat Kit](https://www.amazon.com/dp/B07BVN15S5?tag=mbbeekeeping-20) is a reasonable starting point that includes the essentials in a single package.
+For keepers setting up an enclosure for the first time, the [Exo Terra Crested Gecko Habitat Kit](https://www.amazon.com/dp/B07BVN15S5) is a reasonable starting point that includes the essentials in a single package.
 
 ## Recommended Products
 
-- [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8?tag=mbbeekeeping-20) - 0.001 g precision, reliable for monitoring even small hatchlings
-- [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B01CPIFMFS?tag=mbbeekeeping-20) - a well-accepted MRP formula suitable from hatchling to adult
-- [Exo Terra Crested Gecko Habitat Kit](https://www.amazon.com/dp/B07BVN15S5?tag=mbbeekeeping-20) - enclosure kit for new keepers setting up a proper environment
+- [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8) - 0.001 g precision, reliable for monitoring even small hatchlings
+- [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B01CPIFMFS) - a well-accepted MRP formula suitable from hatchling to adult
+- [Exo Terra Crested Gecko Habitat Kit](https://www.amazon.com/dp/B07BVN15S5) - enclosure kit for new keepers setting up a proper environment
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
