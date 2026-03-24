@@ -18,7 +18,7 @@ The good news is that sexing crested geckos is straightforward once you know wha
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@wolfalexs?utm_source=artlines_blog&utm_medium=referral">Oleksandr Sushko</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## When Can You Sex a Crested Gecko
+## When Can You Sex a Crested Gecko?
 
 Age and size are the limiting factors. Crested geckos do not develop the external sexual characteristics needed for reliable sexing until they reach a certain size threshold.
 
@@ -68,7 +68,7 @@ Some females have faint preanal pores that are only visible under magnification.
 
 **Misreading preanal pores in females:** some females have slightly visible preanal pores, which can lead to a false male identification. Always confirm with both pore appearance and hemipenal bulge presence. A gecko with ambiguous pores but no bulges is almost certainly female. A gecko with clear bulges but ambiguous pores is almost certainly male.
 
-## Does Sex Affect Care
+## Does Sex Affect Care?
 
 For pet keeping purposes, male and female crested geckos have similar care requirements with a few important differences.
 
