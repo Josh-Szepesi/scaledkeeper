@@ -109,7 +109,7 @@ Minor issues like stuck shed or mild dehydration can be addressed at home throug
 
 - [Crested Gecko Temperature and Humidity Guide](https://scaledkeeper.com/2026/02/19/crested-gecko-temperature-humidity-guide.html)
 - [Crested Gecko Shedding: What's Normal, What's Not](https://scaledkeeper.com/2026/02/25/crested-gecko-shedding.html)
-- [Do Crested Geckos Need UVB Lighting?](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html)
+- [Do Crested Geckos Need UVB Lighting](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html)
 
 Getting husbandry right prevents the majority of health problems covered here - start with the temperature and humidity guide if you want to make sure your enclosure setup is solid.
 
