@@ -31,7 +31,7 @@ The two most trusted brands are Repashy and Pangea. Both are nutritionally compl
 
 Mix CGD to a ketchup-like consistency. Too thick and it dries out quickly. Too watery and it lacks the nutritional density your gecko needs. A ratio of roughly one part powder to two parts water is a good starting point, adjusted slightly based on how your gecko responds.
 
-The [Pangea Fruit Mix Complete](https://amazon.com/dp/B00BKBYLG4?tag=mbbeekeeping-20) is one of the most accepted formulas in the hobby and a solid first choice for new keepers.
+The [Pangea Fruit Mix Complete](https://amazon.com/dp/B00BKBYLG4) is one of the most accepted formulas in the hobby and a solid first choice for new keepers.
 
 ## How Often to Feed
 
@@ -53,7 +53,7 @@ Offer insects once or twice per week as a supplement, not a replacement. The bes
 
 Dubia roaches are increasingly popular because they are slower than crickets, easier to contain, odorless, and nutritionally superior. They also cannot climb smooth surfaces or chirp at 2am, which makes them easier to live with.
 
-The [Josh's Frogs Dubia Roach Colony Starter](https://amazon.com/dp/B08CJQZQZP?tag=mbbeekeeping-20) is a good option if you want to maintain a small feeder colony rather than buying insects weekly.
+The [Josh's Frogs Dubia Roach Colony Starter](https://amazon.com/dp/B08CJQZQZP) is a good option if you want to maintain a small feeder colony rather than buying insects weekly.
 
 Dust insects with calcium powder at every feeding. Every two weeks, use a multivitamin supplement instead of plain calcium. Vitamin D3 should be included in the supplement if your gecko has no UVB lighting.
 
