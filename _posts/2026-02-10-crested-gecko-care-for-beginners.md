@@ -2,7 +2,7 @@
 layout: post
 title: "Crested Gecko Care for Beginners: Everything You Need to Know"
 date: 2026-02-10
-description: "New to crested geckos This complete beginner's guide covers setup, feeding, handling, and the gear you actually need to get started."
+description: "New to crested geckos? This complete beginner's guide covers setup, feeding, handling, and the gear you actually need to get started."
 tags: [crested gecko, beginner, care guide]
 image: /assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg
 ---
@@ -18,7 +18,7 @@ Crested geckos are one of the best starter reptiles on the market  -  and for go
 <img src="/assets/images/2026-02-10-crested-gecko-care-for-beginners.jpg" alt="2026 02 10 Crested Gecko Care For Beginners" class="hero-image" style="width:100%;margin-bottom:1.5rem;border-radius:4px;">
 <p class="image-credit">Photo by <a href="https://unsplash.com/@tyfiero?utm_source=artlines_blog&utm_medium=referral">Ty Fiero</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Makes Crested Geckos Good for Beginners
+## What Makes Crested Geckos Good for Beginners?
 
 Unlike many reptiles, crested geckos are remarkably forgiving. They tolerate a range of temperatures, eat a commercially prepared diet, and don't require the complex lighting setups that bearded dragons or chameleons demand. They're also active in the evening, which makes them interesting to watch without requiring you to be home all day.
 
@@ -137,7 +137,7 @@ Flame or harlequin morphs are widely available, reasonably priced, and just as h
 - [Crested Gecko Enclosure Setup](/2026/02/13/crested-gecko-enclosure-setup.html)
 - [Crested Gecko Temperature and Humidity Guide](/2026/02/19/crested-gecko-temperature-humidity-guide.html)
 
-Ready to build out your gecko's home Check out our [complete enclosure setup guide](/2026/02/13/crested-gecko-enclosure-setup.html) next.
+Ready to build out your gecko's home? Check out our [complete enclosure setup guide](/2026/02/13/crested-gecko-enclosure-setup.html) next.
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
