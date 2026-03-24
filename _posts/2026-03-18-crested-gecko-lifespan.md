@@ -39,7 +39,7 @@ If your home runs warm, practical fixes include: moving the enclosure to a lower
 
 Crested geckos are omnivores with relatively straightforward nutritional needs, but those needs still require consistent effort to meet. A diet of low-quality or improperly stored crested gecko diet (CGD) powder is a common and underappreciated cause of metabolic problems that shorten lifespan.
 
-I recommend a quality complete CGD powder as the dietary foundation. Products like [Pangea Fruit Mix Complete](https://www.amazon.com/s?k=pangea+crested+gecko+diet&tag=mbbeekeeping-20) provide a balanced nutritional profile when prepared and stored correctly - mix fresh batches every 2 to 3 days and refrigerate between feedings. Insects should supplement the diet 2 to 3 times per week for juveniles and growing subadults, and weekly for adults. In my animals, adding feeder variety - rotating between dubia roaches and crickets - noticeably improves body condition compared to those on CGD alone.
+I recommend a quality complete CGD powder as the dietary foundation. Products like [Pangea Fruit Mix Complete](https://www.amazon.com/s?k=pangea+crested+gecko+diet) provide a balanced nutritional profile when prepared and stored correctly - mix fresh batches every 2 to 3 days and refrigerate between feedings. Insects should supplement the diet 2 to 3 times per week for juveniles and growing subadults, and weekly for adults. In my animals, adding feeder variety - rotating between dubia roaches and crickets - noticeably improves body condition compared to those on CGD alone.
 
 Do not skip insects entirely just because CGD is marketed as "complete." Live prey provides behavioral enrichment and protein diversity that powder alone does not fully replicate.
 
@@ -47,7 +47,7 @@ Do not skip insects entirely just because CGD is marketed as "complete." Live pr
 
 Calcium deficiency is the single most common preventable cause of early death in captive crested geckos. Metabolic bone disease (MBD) - caused by insufficient calcium or a poor calcium-to-phosphorus ratio - progresses slowly and is often missed until it becomes severe.
 
-Every feeding of live insects should receive a light dusting of [calcium powder with vitamin D3](https://www.amazon.com/s?k=reptile+calcium+supplement+vitamin+d3&tag=mbbeekeeping-20). If your gecko eats primarily CGD, supplementation is still important: captive animals rarely receive enough natural UVB to synthesize adequate D3 on their own. For context on whether a UVB lamp changes this equation, see the full breakdown in the [crested gecko UVB lighting guide](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html).
+Every feeding of live insects should receive a light dusting of [calcium powder with vitamin D3](https://www.amazon.com/s?k=reptile+calcium+supplement+vitamin+d3). If your gecko eats primarily CGD, supplementation is still important: captive animals rarely receive enough natural UVB to synthesize adequate D3 on their own. For context on whether a UVB lamp changes this equation, see the full breakdown in the [crested gecko UVB lighting guide](https://scaledkeeper.com/2026/02/28/do-crested-geckos-need-uvb-lighting.html).
 
 A gecko that has gone years without proper calcium supplementation may look healthy until the damage is already done. I supplement every feeder insect meal without exception - it is one of the lowest-cost, highest-impact things you can do.
 
