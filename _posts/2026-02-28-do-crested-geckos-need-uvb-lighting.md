@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do Crested Geckos Need UVB Lighting?"
+title: "Do Crested Geckos Need UVB Lighting"
 date: 2026-02-28
 description: "Find out if crested geckos need UVB lighting, what the research says, and how to set up the right lighting for a thriving crestie."
 tags: [crested gecko, UVB lighting, reptile care, gecko husbandry]
@@ -17,11 +17,11 @@ For years, the crested gecko hobby operated on a simple assumption: these crepus
 
 
 
-![Do Crested Geckos Need UVB Lighting?](/assets/images/2026-02-28-do-crested-geckos-need-uvb-lighting.jpg)
+![Do Crested Geckos Need UVB Lighting](/assets/images/2026-02-28-do-crested-geckos-need-uvb-lighting.jpg)
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Is UVB and Why Does It Matter?
+## What Is UVB and Why Does It Matter
 
 UVB (ultraviolet B) radiation is the part of the light spectrum that enables reptiles to synthesize vitamin D3 in their skin. Vitamin D3 is essential for calcium absorption and metabolic bone health. Without it, reptiles must get D3 entirely through diet, which is possible but has limitations.
 
@@ -41,7 +41,7 @@ Field studies of wild *Correlophus ciliatus* show they do bask opportunistically
 
 A key insight most care guides skip: even animals in "shaded" habitats receive incidental UVB through reflected and scattered light. A forest canopy does not block all UV. In fact, UVI (UV Index) readings under dense tropical canopy still commonly register between 0.5 and 2.0. A zero-UV [enclosure](/2026/02/13/crested-gecko-enclosure-setup.html) is not natural for any wild reptile.
 
-## Supplement D3 vs. UVB: Can You Skip the Light?
+## Supplement D3 vs. UVB: Can You Skip the Light
 
 You can provide D3 through calcium supplements dusted on feeders. Many keepers have done this for decades without obvious problems. But there are real limitations to this approach:
 
