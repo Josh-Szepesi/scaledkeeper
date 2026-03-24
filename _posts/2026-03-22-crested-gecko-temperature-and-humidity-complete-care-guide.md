@@ -123,7 +123,7 @@ Crested geckos are crepuscular and most active after dark when humidity in their
 
 Bookmark this guide and check out our [Best Crested Gecko Enclosures buyer's guide](/2026/03/12/best-crested-gecko-enclosures-buyers-guide) next -- enclosure choice has a significant effect on how well your setup holds humidity and temperature.
 
-**Related reading:** [Do Crested Geckos Need UVB Lighting?](/2026/03/10/do-crested-geckos-need-uvb-lighting)
+**Related reading:** [Do Crested Geckos Need UVB Lighting](/2026/03/10/do-crested-geckos-need-uvb-lighting)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
