@@ -18,7 +18,7 @@ Understanding morphs helps you make a better buying decision, set realistic expe
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Is a Morph
+## What Is a Morph?
 
 A morph is a heritable variation in color, pattern, or structure that breeders selectively reproduce over generations. In crested geckos, morphs are defined primarily by pattern and color rather than genetics in the way ball python or leopard gecko morphs work.
 
@@ -104,7 +104,7 @@ Axanthic crested geckos lack yellow pigmentation, producing animals in grey, bla
 
 Price range: $400 to $1,500 for well-documented axanthic lines
 
-## Which Morph Is Best for Beginners
+## Which Morph Is Best for Beginners?
 
 Any morph is equally easy to care for. Morph has no effect on temperament, hardiness, or husbandry requirements. The decision is entirely aesthetic and financial.
 
@@ -152,7 +152,7 @@ Not always. Morph naming in crested geckos is subjective and inconsistent across
 - [How to Tell If Your Crested Gecko Is Male or Female](/2026/03/05/crested-gecko-male-or-female.html)
 - [Crested Gecko Care for Beginners](/2026/02/10/crested-gecko-care-for-beginners.html)
 
-Want to breed for specific morphs Start by understanding [how to tell male from female](/2026/03/05/crested-gecko-male-or-female.html) reliably.
+Want to breed for specific morphs? Start by understanding [how to tell male from female](/2026/03/05/crested-gecko-male-or-female.html) reliably.
 
 ## Recommended Products
 
