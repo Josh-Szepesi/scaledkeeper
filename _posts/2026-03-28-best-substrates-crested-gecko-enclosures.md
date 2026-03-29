@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Substrates for Crested Gecko Enclosures"
+description: "Choosing the best substrate for a crested gecko enclosure affects humidity retention, hygiene, and impaction risk — here is what works and what to avoid."
 date: 2026-03-28
 image: /assets/images/2026-03-28-best-substrates-crested-gecko-enclosures.jpg
 ---
