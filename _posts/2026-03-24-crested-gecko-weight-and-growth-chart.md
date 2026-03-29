@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crested Gecko Weight and Growth Chart by Age"
+description: "Track your crested gecko's weight against an age-based growth chart — with expected ranges at each stage and guidance on what to do when numbers look off."
 date: 2026-03-24
 image: /assets/images/2026-03-24-crested-gecko-weight-and-growth-chart.jpg
 ---
