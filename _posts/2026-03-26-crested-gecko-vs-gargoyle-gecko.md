@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crested Gecko vs. Gargoyle Gecko: Which Is Right for You?"
+description: "Crested gecko vs. gargoyle gecko — compare size, temperament, care requirements, and availability to decide which New Caledonian gecko is right for you."
 date: 2026-03-26
 image: /assets/images/2026-03-26-crested-gecko-vs-gargoyle-gecko.jpg
 ---
