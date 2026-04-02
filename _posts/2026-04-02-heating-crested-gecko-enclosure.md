@@ -43,7 +43,7 @@ You do NOT need heat if your home stays in the 70s year-round. Adding unnecessar
 
 There are three practical heating options for crested geckos.
 
-**Under-tank heaters (UTH)** are the most common starting point. They warm the glass from below, creating a subtle warm zone at the bottom of the enclosure. The **Zoo Med ReptiTherm Under Tank Heater** is a reliable choice - use the medium (8W) for a standard 20-gallon tall or similar. Important: UTHs must always be connected to a thermostat. Without one, they will overheat the bottom of the enclosure.
+**Under-tank heaters (UTH)** are the most common starting point. They warm the glass from below, creating a subtle warm zone at the bottom of the enclosure. The [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B0002AR1CQ) is a reliable choice - use the medium (8W) for a standard 20-gallon tall or similar. Important: UTHs must always be connected to a thermostat. Without one, they will overheat the bottom of the enclosure.
 
 **Ceramic heat emitters (CHE)** screw into a standard incandescent socket and produce heat without any visible light - useful if you need overhead heat without disrupting nighttime cycles. They run hot and absolutely require a thermostat.
 
@@ -55,7 +55,7 @@ What you should avoid: any form of focused heat lamp, basking bulb, or heat rock
 
 If there is a single piece of equipment you should not skip, it is the thermostat. Heat mats and ceramic emitters do not self-regulate. Without a thermostat, a heat mat can push the floor of an enclosure to 90+ degrees F - lethal territory for a crested gecko.
 
-The **Inkbird ITC-308 Digital Temperature Controller** is a widely used option in the reptile community. It plugs between your heat source and the wall outlet, reads from a probe inside the enclosure, and cuts power to the heater when the target temperature is reached. Set the target to 75 degrees F with a safety cutoff at 80 degrees F.
+The [Inkbird ITC-308 Digital Temperature Controller](https://www.amazon.com/dp/B011296VEG) is a widely used option in the reptile community. It plugs between your heat source and the wall outlet, reads from a probe inside the enclosure, and cuts power to the heater when the target temperature is reached. Set the target to 75 degrees F with a safety cutoff at 80 degrees F.
 
 For keepers with multiple enclosures, dimming thermostats offer more precise control, but an on/off thermostat like the Inkbird is sufficient for most crested gecko setups.
 
@@ -69,7 +69,7 @@ For overhead heat sources, position them toward one side of the enclosure, again
 
 Position the enclosure away from direct sunlight, heat vents, and cold drafts. A window that lets in afternoon sun can spike temperatures inside a glass enclosure to dangerous levels even in cool weather.
 
-The **Govee Bluetooth Temperature and Humidity Sensor** lets you log temperature over time via an app, which is useful for catching unexpected spikes during the day when you are not home.
+The [Govee Bluetooth Temperature and Humidity Sensor](https://www.amazon.com/dp/B087313NR3) lets you log temperature over time via an app, which is useful for catching unexpected spikes during the day when you are not home.
 
 ## What to Avoid When Heating a Crested Gecko Setup
 
@@ -89,9 +89,9 @@ For a full breakdown of how temperature interacts with humidity and health, read
 
 | Product | Notes |
 |--------|-------|
-| **Inkbird ITC-308 Thermostat** | On/off thermostat, works with UTHs and ceramic emitters |
-| **Zoo Med ReptiTherm Under Tank Heater** | Medium (8W) suits 20-gallon tall enclosures |
-| **Govee Bluetooth Temperature Humidity Sensor** | Logs temperature history, useful for catching spikes |
+| [Inkbird ITC-308 Thermostat](https://www.amazon.com/dp/B011296VEG) | On/off thermostat, works with UTHs and ceramic emitters |
+| [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B0002AR1CQ) | Medium (8W) suits 20-gallon tall enclosures |
+| [Govee Bluetooth Temperature Humidity Sensor](https://www.amazon.com/dp/B087313NR3) | Logs temperature history, useful for catching spikes |
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
