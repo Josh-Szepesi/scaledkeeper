@@ -29,7 +29,7 @@ For a single adult crested gecko, the minimum is a 20-gallon tall enclosure. The
 
 For juveniles under 10 grams, start in something smaller like a 6-quart plastic tub or a 10-gallon tank. Young geckos have trouble locating food in large spaces and can become stressed in enclosures that feel exposed.
 
-Glass terrariums with front-opening doors are the best choice for most keepers. They hold humidity better than screen-only enclosures and front access makes feeding and cleaning less disruptive for the gecko. The [Exo Terra 18x18x24 Glass Terrarium](https://www.amazon.com/dp/B000AQTFR4?tag=scaledkeeper-20) is purpose-built for arboreal species and is the most commonly recommended option in the hobby.
+Glass terrariums with front-opening doors are the best choice for most keepers. They hold humidity better than screen-only enclosures and front access makes feeding and cleaning less disruptive for the gecko. The [Exo Terra 18x18x24 Glass Terrarium](https://www.amazon.com/dp/B000I1QYLK?tag=scaledkeeper-20) is purpose-built for arboreal species and is the most commonly recommended option in the hobby.
 
 ## Drainage Layer
 
