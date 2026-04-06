@@ -30,7 +30,7 @@ Compressed bricks expand dramatically when soaked in water, giving you a large v
 
 One limitation of pure coconut fiber is that it can become hydrophobic when it dries out completely, making it slow to reabsorb water from misting. In a gecko enclosure that gets misted consistently this usually isn't a problem, but it can be an issue during travel or if misting gets interrupted for several days.
 
-**[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00526HS1O?tag=scaledkeeper-20)** is widely available and performs consistently over several months before needing replacement.
+**[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00167VVP4?tag=scaledkeeper-20)** is widely available and performs consistently over several months before needing replacement.
 
 ## Organic Topsoil and Plantation Soil Mixes
 
@@ -90,7 +90,7 @@ In a properly established bioactive enclosure, the microfauna colony breaks down
 
 Three substrate options we consistently recommend for crested gecko keepers:
 
-- **[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00526HS1O?tag=scaledkeeper-20)** - Reliable, widely available, and suitable for both simple and bioactive enclosures.
+- **[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00167VVP4?tag=scaledkeeper-20)** - Reliable, widely available, and suitable for both simple and bioactive enclosures.
 - **[Exo Terra Plantation Soil](https://www.amazon.com/dp/B001BLTRS2?tag=scaledkeeper-20)** - Coarser coco husk texture, blends well with organic topsoil for a mixed base with better drainage.
 - **[Josh's Frogs BioBedding for Tropical Reptiles](https://www.amazon.com/dp/B07D9NDKDZ?tag=scaledkeeper-20)** - Pre-blended bioactive substrate with the primary components already proportioned.
 
