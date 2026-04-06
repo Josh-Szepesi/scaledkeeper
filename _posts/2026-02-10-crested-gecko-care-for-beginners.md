@@ -32,7 +32,7 @@ A single adult crested gecko needs a minimum of a 20-gallon tall enclosure. Cres
 
 For juveniles under 10 grams, start smaller  -  a 6-quart plastic tub or 10-gallon tank prevents them from having trouble locating food.
 
-The [Exo Terra 18x18x24 Glass Terrarium](https://www.amazon.com/dp/B000AQTFR4?tag=scaledkeeper-20) is a popular choice and purpose-built for arboreal species. It has front-opening doors, a screen top for ventilation, and a raised bottom for a drainage layer.
+The [Exo Terra 18x18x24 Glass Terrarium](https://www.amazon.com/dp/B000I1QYLK?tag=scaledkeeper-20) is a popular choice and purpose-built for arboreal species. It has front-opening doors, a screen top for ventilation, and a raised bottom for a drainage layer.
 
 ### Substrate
 
