@@ -71,7 +71,7 @@ Females need a suitable place to deposit eggs. Without a proper lay box, a femal
 
 A lay box is a container partially filled with a moist laying medium - usually coconut fiber, organic topsoil, or a 50/50 mix of both. The medium should be damp enough to hold its shape when squeezed but not wet enough to release water. Depth should be at least 4-5 inches so the female can dig to a comfortable depth.
 
-The **[Pangea Breeding and Nesting Box](https://www.amazon.com/dp/B07Q5LPTHB)** is sized well for crested geckos and has a lid with a hole cut for entry, which keeps the medium from drying out too quickly between checks.
+The **[Pangea Breeding and Nesting Box](https://www.amazon.com/dp/B07Q5LPTHB?tag=scaledkeeper-20)** is sized well for crested geckos and has a lid with a hole cut for entry, which keeps the medium from drying out too quickly between checks.
 
 Place the lay box in the lower section of the enclosure where it stays slightly cooler and more humid. Most females will investigate it and begin using it within a week or two of introduction.
 
@@ -97,7 +97,7 @@ Place eggs half-buried (or resting on top) in the medium in a small deli contain
 
 At room temperature incubation, a basic setup works: a lidded container in a stable room with a consistent temperature. Avoid spots near windows (temperature swings), heater vents, or air conditioning outlets.
 
-If you want more control, the **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B00F6CBRDO)** is a practical entry-level option. It holds temperature within a narrow range and keeps the humidity consistent without active monitoring. This is worth the investment if you're running multiple clutches at once or your home has significant temperature variation between seasons.
+If you want more control, the **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B00F6CBRDO?tag=scaledkeeper-20)** is a practical entry-level option. It holds temperature within a narrow range and keeps the humidity consistent without active monitoring. This is worth the investment if you're running multiple clutches at once or your home has significant temperature variation between seasons.
 
 ### Incubation Duration
 
@@ -113,7 +113,7 @@ Hatchlings should be housed individually from the start. A small enclosure - 6x6
 
 Feed hatchlings the same complete-diet gecko food you use for adults, offered in a small dish 3-4 times per week. In our experience keeping hatchlings, smaller amounts more frequently - refreshing the dish every 2 days - works better than putting out a larger portion that dries out before the hatchling finishes it.
 
-**[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ)** works well for hatchlings mixed slightly thinner than the adult consistency. Start with just a small pea-sized amount per feeding to minimize waste while the gecko is still establishing its feeding routine.
+**[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ?tag=scaledkeeper-20)** works well for hatchlings mixed slightly thinner than the adult consistency. Start with just a small pea-sized amount per feeding to minimize waste while the gecko is still establishing its feeding routine.
 
 Track each hatchling's weight weekly for the first two months using a digital kitchen scale. Healthy hatchlings gain steadily - a gecko that isn't gaining weight by four weeks old warrants closer attention to feeding schedule and enclosure humidity. The weight benchmarks in our [crested gecko weight and growth chart](/2026/03/24/crested-gecko-weight-and-growth-chart) give you targets to compare against.
 
@@ -127,9 +127,9 @@ For a broader overview of how diet evolves as crested geckos grow, the [Reptifil
 
 Three products we use consistently in our breeding setup:
 
-- **[Pangea Breeding and Nesting Box](https://www.amazon.com/dp/B07Q5LPTHB)** - Sized correctly for crested geckos, with a covered entry that slows medium drying.
-- **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B00F6CBRDO)** - A practical low-cost incubator for keepers running multiple clutches or in rooms with variable temperatures.
-- **[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ)** - The staple diet for both breeders and hatchlings; mixes well at different consistencies depending on age.
+- **[Pangea Breeding and Nesting Box](https://www.amazon.com/dp/B07Q5LPTHB?tag=scaledkeeper-20)** - Sized correctly for crested geckos, with a covered entry that slows medium drying.
+- **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B00F6CBRDO?tag=scaledkeeper-20)** - A practical low-cost incubator for keepers running multiple clutches or in rooms with variable temperatures.
+- **[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ?tag=scaledkeeper-20)** - The staple diet for both breeders and hatchlings; mixes well at different consistencies depending on age.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
