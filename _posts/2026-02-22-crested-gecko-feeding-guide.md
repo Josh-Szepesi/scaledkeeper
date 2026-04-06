@@ -53,7 +53,7 @@ Offer insects once or twice per week as a supplement, not a replacement. The bes
 
 Dubia roaches are increasingly popular because they are slower than crickets, easier to contain, odorless, and nutritionally superior. They also cannot climb smooth surfaces or chirp at 2am, which makes them easier to live with.
 
-The [Josh's Frogs Dubia Roach Colony Starter](https://www.amazon.com/dp/B08CJQZQZP?tag=scaledkeeper-20) is a good option if you want to maintain a small feeder colony rather than buying insects weekly.
+The [Josh's Frogs Dubia Roach Colony Starter](https://www.amazon.com/dp/B0DJYPD2GM?tag=scaledkeeper-20) is a good option if you want to maintain a small feeder colony rather than buying insects weekly.
 
 Dust insects with calcium powder at every feeding. Every two weeks, use a multivitamin supplement instead of plain calcium. Vitamin D3 should be included in the supplement if your gecko has no UVB lighting.
 
