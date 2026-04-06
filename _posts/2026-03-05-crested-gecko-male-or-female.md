@@ -120,9 +120,9 @@ Once you know your gecko's sex, you might be curious about genetic traits. Check
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Bearded Dragon Care Guide](https://www.amazon.com/s?k=bearded+dragon+complete+care+guide+book)**
-- **[Reptile Handling Gloves](https://www.amazon.com/s?k=reptile+handling+gloves+leather)**
-- **[Digital Reptile Thermometer](https://www.amazon.com/s?k=digital+reptile+thermometer+hygrometer)**
+- **[Bearded Dragon Care Guide](https://www.amazon.com/s?k=bearded+dragon+complete+care+guide+book&tag=scaledkeeper-20)**
+- **[Reptile Handling Gloves](https://www.amazon.com/s?k=reptile+handling+gloves+leather&tag=scaledkeeper-20)**
+- **[Digital Reptile Thermometer](https://www.amazon.com/s?k=digital+reptile+thermometer+hygrometer&tag=scaledkeeper-20)**
 
 
 <div class="author-bio">
