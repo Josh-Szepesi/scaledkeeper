@@ -30,7 +30,7 @@ Compressed bricks expand dramatically when soaked in water, giving you a large v
 
 One limitation of pure coconut fiber is that it can become hydrophobic when it dries out completely, making it slow to reabsorb water from misting. In a gecko enclosure that gets misted consistently this usually isn't a problem, but it can be an issue during travel or if misting gets interrupted for several days.
 
-**[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00526HS1O)** is widely available and performs consistently over several months before needing replacement.
+**[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00526HS1O?tag=scaledkeeper-20)** is widely available and performs consistently over several months before needing replacement.
 
 ## Organic Topsoil and Plantation Soil Mixes
 
@@ -38,7 +38,7 @@ Plain organic topsoil - specifically soil with no added fertilizers, pesticides,
 
 The important word is "organic" in the additive-free sense. Many bagged topsoils sold at garden centers include slow-release fertilizers or other amendments that are not safe for reptile enclosures. Read the ingredient list and confirm the bag contains only soil.
 
-**[Exo Terra Plantation Soil](https://www.amazon.com/dp/B001BLTRS2)** is a compressed coconut husk substrate with a coarser texture than standard coco coir. It blends well with organic topsoil in roughly equal parts. We use this combination regularly in our grow-out enclosures because it drains slightly faster than pure coco fiber while still holding enough moisture through the day.
+**[Exo Terra Plantation Soil](https://www.amazon.com/dp/B001BLTRS2?tag=scaledkeeper-20)** is a compressed coconut husk substrate with a coarser texture than standard coco coir. It blends well with organic topsoil in roughly equal parts. We use this combination regularly in our grow-out enclosures because it drains slightly faster than pure coco fiber while still holding enough moisture through the day.
 
 ## The ABG Mix: The Standard for Bioactive Vivarium Builds
 
@@ -54,7 +54,7 @@ A basic ABG-style mix for crested geckos:
 
 This combination drains quickly at depth while retaining enough surface moisture to support humidity between misting cycles. If you're building a full planted vivarium, our [bioactive crested gecko enclosure guide](/2026/02/16/bioactive-crested-gecko-enclosure) covers the complete build process including drainage layers, plant selection, and seeding microfauna.
 
-**[Josh's Frogs BioBedding for Tropical Reptiles](https://www.amazon.com/dp/B07D9NDKDZ)** is a pre-blended bioactive substrate that includes coconut fiber, sphagnum moss, orchid bark, and charcoal already proportioned. It's a practical starting point if you don't want to source and blend individual components.
+**[Josh's Frogs BioBedding for Tropical Reptiles](https://www.amazon.com/dp/B07D9NDKDZ?tag=scaledkeeper-20)** is a pre-blended bioactive substrate that includes coconut fiber, sphagnum moss, orchid bark, and charcoal already proportioned. It's a practical starting point if you don't want to source and blend individual components.
 
 ## What to Avoid
 
@@ -90,9 +90,9 @@ In a properly established bioactive enclosure, the microfauna colony breaks down
 
 Three substrate options we consistently recommend for crested gecko keepers:
 
-- **[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00526HS1O)** - Reliable, widely available, and suitable for both simple and bioactive enclosures.
-- **[Exo Terra Plantation Soil](https://www.amazon.com/dp/B001BLTRS2)** - Coarser coco husk texture, blends well with organic topsoil for a mixed base with better drainage.
-- **[Josh's Frogs BioBedding for Tropical Reptiles](https://www.amazon.com/dp/B07D9NDKDZ)** - Pre-blended bioactive substrate with the primary components already proportioned.
+- **[Zoo Med Eco Earth Coconut Fiber Substrate](https://www.amazon.com/dp/B00526HS1O?tag=scaledkeeper-20)** - Reliable, widely available, and suitable for both simple and bioactive enclosures.
+- **[Exo Terra Plantation Soil](https://www.amazon.com/dp/B001BLTRS2?tag=scaledkeeper-20)** - Coarser coco husk texture, blends well with organic topsoil for a mixed base with better drainage.
+- **[Josh's Frogs BioBedding for Tropical Reptiles](https://www.amazon.com/dp/B07D9NDKDZ?tag=scaledkeeper-20)** - Pre-blended bioactive substrate with the primary components already proportioned.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
