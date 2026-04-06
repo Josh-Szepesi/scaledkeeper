@@ -69,7 +69,7 @@ For overhead heat sources, position them toward one side of the enclosure, again
 
 Position the enclosure away from direct sunlight, heat vents, and cold drafts. A window that lets in afternoon sun can spike temperatures inside a glass enclosure to dangerous levels even in cool weather.
 
-The [Govee Bluetooth Temperature and Humidity Sensor](https://www.amazon.com/dp/B087313NR3?tag=scaledkeeper-20) lets you log temperature over time via an app, which is useful for catching unexpected spikes during the day when you are not home.
+The [Govee Bluetooth Temperature and Humidity Sensor](https://www.amazon.com/dp/B09BHSLWBL?tag=scaledkeeper-20) lets you log temperature over time via an app, which is useful for catching unexpected spikes during the day when you are not home.
 
 ## What to Avoid When Heating a Crested Gecko Setup
 
@@ -91,7 +91,7 @@ For a full breakdown of how temperature interacts with humidity and health, read
 |--------|-------|
 | [Inkbird ITC-308 Thermostat](https://www.amazon.com/dp/B011296VEG?tag=scaledkeeper-20) | On/off thermostat, works with UTHs and ceramic emitters |
 | [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B0002AR1CQ?tag=scaledkeeper-20) | Medium (8W) suits 20-gallon tall enclosures |
-| [Govee Bluetooth Temperature Humidity Sensor](https://www.amazon.com/dp/B087313NR3?tag=scaledkeeper-20) | Logs temperature history, useful for catching spikes |
+| [Govee Bluetooth Temperature Humidity Sensor](https://www.amazon.com/dp/B09BHSLWBL?tag=scaledkeeper-20) | Logs temperature history, useful for catching spikes |
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
