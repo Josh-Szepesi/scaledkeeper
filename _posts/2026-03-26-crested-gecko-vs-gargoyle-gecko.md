@@ -94,7 +94,7 @@ Both crested and gargoyle geckos do well on the same staple foods and enclosures
 
 - **Pangea Fruit Mix Complete Gecko Food** - A nutritionally complete CGD that works for both species. We rotate multiple Pangea flavors throughout the month. [Shop on Amazon](https://www.amazon.com/dp/B00HPN2OSW?tag=scaledkeeper-20)
 
-- **Repashy Crested Gecko MRP** - Another complete meal replacement powder and a solid option for rotation with Pangea. The insects-included formula is a favorite in our collection. [Shop on Amazon](https://www.amazon.com/dp/B09NNX1H3N?tag=scaledkeeper-20)
+- **Repashy Crested Gecko MRP** - Another complete meal replacement powder and a solid option for rotation with Pangea. The insects-included formula is a favorite in our collection. [Shop on Amazon](https://www.amazon.com/dp/B0BKQVVJ88?tag=scaledkeeper-20)
 
 - **Exo Terra Allglass Terrarium 18x18x24** - The standard enclosure for a single adult crested or gargoyle gecko. The front-opening doors make daily feeding and misting much easier than top-entry tanks. [Shop on Amazon](https://www.amazon.com/dp/B001BMTPZ2?tag=scaledkeeper-20)
 
