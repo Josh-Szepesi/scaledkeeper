@@ -111,7 +111,7 @@ Introduce the cleanup crew to the enclosure before adding the gecko. Give them t
 
 Live plants require adequate light to survive. The lighting needs of a bioactive enclosure are higher than a standard setup with artificial plants.
 
-A full-spectrum LED grow light or T5 HO fluorescent fixture running 10 to 12 hours per day supports most vivarium plants reliably. The [Arcadia Jungle Dawn LED Bar](https://www.amazon.com/dp/B07BFBZQZ7?tag=scaledkeeper-20) is a popular choice in the bioactive community for its output, spectrum, and low heat production.
+A full-spectrum LED grow light or T5 HO fluorescent fixture running 10 to 12 hours per day supports most vivarium plants reliably. The [Arcadia Jungle Dawn LED Bar](https://www.amazon.com/dp/B07XF7F86J?tag=scaledkeeper-20) is a popular choice in the bioactive community for its output, spectrum, and low heat production.
 
 Avoid placing the enclosure in direct sunlight as a substitute for artificial lighting. Sunlight causes rapid temperature spikes that can kill a crested gecko within hours.
 
