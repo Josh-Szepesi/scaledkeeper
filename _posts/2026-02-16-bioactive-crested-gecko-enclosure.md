@@ -66,7 +66,7 @@ The most widely used substrate mix for crested gecko bioactive enclosures is the
 
 Mix these components thoroughly before adding to the enclosure. Aim for a substrate depth of 3 to 4 inches minimum. More depth supports better plant root development and gives the cleanup crew more space to work.
 
-Pre-mixed options like the [BioDude Terra Fauna substrate](https://www.amazon.com/dp/B07QNQP8YZ?tag=scaledkeeper-20) are worth considering if sourcing individual components feels overwhelming. They are more expensive per volume but consistent in quality and ready to use.
+Pre-mixed options like the [BioDude Terra Fauna substrate](https://www.amazon.com/dp/B07TVF5J5M?tag=scaledkeeper-20) are worth considering if sourcing individual components feels overwhelming. They are more expensive per volume but consistent in quality and ready to use.
 
 Moisten the substrate before adding it to the enclosure. It should feel like a wrung-out sponge: damp throughout but not dripping when squeezed.
 
