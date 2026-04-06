@@ -103,7 +103,7 @@ The standard cleanup crew for a crested gecko bioactive enclosure consists of:
 
 **Springtails (Collembola):** microscopic decomposers that consume mold, fungal growth, and fine organic particles the isopods miss. They are the first line of defense against mold outbreaks in the substrate. Add a culture of springtails at the same time as isopods.
 
-The [Josh's Frogs Bioactive Starter Kit](https://www.amazon.com/dp/B08CXQZQZP?tag=scaledkeeper-20) includes both isopods and springtails and is a convenient starting point for first-time bioactive builders.
+The [Josh's Frogs Bioactive Starter Kit](https://www.amazon.com/dp/B08VSMCV6N?tag=scaledkeeper-20) includes both isopods and springtails and is a convenient starting point for first-time bioactive builders.
 
 Introduce the cleanup crew to the enclosure before adding the gecko. Give them two to four weeks to establish and begin colonizing the substrate before the gecko moves in.
 
