@@ -157,9 +157,9 @@ Once your gecko is eating again, revisit the fundamentals. Our [Crested Gecko Fe
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Dubia Roaches Live](https://www.amazon.com/s?k=dubia+roaches+live+feeder+insects)**
-- **[Repashy Beardie Buffet](https://www.amazon.com/s?k=repashy+beardie+buffet+gel+food)**
-- **[Reptile Calcium Supplement](https://www.amazon.com/s?k=reptile+calcium+supplement+powder+d3)**
+- **[Dubia Roaches Live](https://www.amazon.com/s?k=dubia+roaches+live+feeder+insects&tag=scaledkeeper-20)**
+- **[Repashy Beardie Buffet](https://www.amazon.com/s?k=repashy+beardie+buffet+gel+food&tag=scaledkeeper-20)**
+- **[Reptile Calcium Supplement](https://www.amazon.com/s?k=reptile+calcium+supplement+powder+d3&tag=scaledkeeper-20)**
 
 
 <div class="author-bio">
