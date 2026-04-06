@@ -81,7 +81,7 @@ Anything above 80 degrees for an extended period causes heat stress and can kill
 
 If your home drops below 65 degrees at night in winter, a low-wattage ceramic heat emitter (CHE) on a quality thermostat will bring temperatures up without producing light that disrupts their sleep cycle. Never use heat rocks or under-tank heaters for arboreal species.
 
-Place a digital thermometer at the top and bottom of the enclosure to track the temperature gradient. The [Zoo Med Digital Thermometer](https://www.amazon.com/dp/B0002AQCOA?tag=scaledkeeper-20) is inexpensive and reliable for this.
+Place a digital thermometer at the top and bottom of the enclosure to track the temperature gradient. The [Zoo Med Digital Thermometer](https://www.amazon.com/dp/B08X9SF4C9?tag=scaledkeeper-20) is inexpensive and reliable for this.
 
 ## Humidity Setup
 
