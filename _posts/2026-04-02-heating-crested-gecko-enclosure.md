@@ -43,7 +43,7 @@ You do NOT need heat if your home stays in the 70s year-round. Adding unnecessar
 
 There are three practical heating options for crested geckos.
 
-**Under-tank heaters (UTH)** are the most common starting point. They warm the glass from below, creating a subtle warm zone at the bottom of the enclosure. The [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B0002AR1CQ?tag=scaledkeeper-20) is a reliable choice - use the medium (8W) for a standard 20-gallon tall or similar. Important: UTHs must always be connected to a thermostat. Without one, they will overheat the bottom of the enclosure.
+**Under-tank heaters (UTH)** are the most common starting point. They warm the glass from below, creating a subtle warm zone at the bottom of the enclosure. The [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B00BUFWCNC?tag=scaledkeeper-20) is a reliable choice - use the medium (8W) for a standard 20-gallon tall or similar. Important: UTHs must always be connected to a thermostat. Without one, they will overheat the bottom of the enclosure.
 
 **Ceramic heat emitters (CHE)** screw into a standard incandescent socket and produce heat without any visible light - useful if you need overhead heat without disrupting nighttime cycles. They run hot and absolutely require a thermostat.
 
@@ -90,7 +90,7 @@ For a full breakdown of how temperature interacts with humidity and health, read
 | Product | Notes |
 |--------|-------|
 | [Inkbird ITC-308 Thermostat](https://www.amazon.com/dp/B011296VEG?tag=scaledkeeper-20) | On/off thermostat, works with UTHs and ceramic emitters |
-| [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B0002AR1CQ?tag=scaledkeeper-20) | Medium (8W) suits 20-gallon tall enclosures |
+| [Zoo Med ReptiTherm Under Tank Heater](https://www.amazon.com/dp/B00BUFWCNC?tag=scaledkeeper-20) | Medium (8W) suits 20-gallon tall enclosures |
 | [Govee Bluetooth Temperature Humidity Sensor](https://www.amazon.com/dp/B09BHSLWBL?tag=scaledkeeper-20) | Logs temperature history, useful for catching spikes |
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
