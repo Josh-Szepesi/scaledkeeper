@@ -50,7 +50,7 @@ Use 1.5 to 2 inches of hydroton expanded clay balls or lava rock. Both are porou
 
 Place a layer of fine fiberglass mesh or weed barrier fabric on top of the drainage layer. This barrier separates it from the substrate above while allowing water to pass through freely. Without this separation, substrate gradually migrates down into the drainage layer and compromises the system over time.
 
-The [Josh's Frogs HydroBalls](https://www.amazon.com/dp/B00BSXE1Z4?tag=scaledkeeper-20) are a reliable and widely used option for the drainage layer in bioactive builds.
+The [Josh's Frogs HydroBalls](https://www.amazon.com/dp/B00JJVBXHK?tag=scaledkeeper-20) are a reliable and widely used option for the drainage layer in bioactive builds.
 
 ## The Substrate Mix
 
