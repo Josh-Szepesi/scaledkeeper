@@ -158,9 +158,9 @@ Want to breed for specific morphs? Start by understanding [how to tell male from
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Bearded Dragon Habitat Kit](https://www.amazon.com/s?k=bearded+dragon+starter+habitat+kit)**
-- **[Reptile Infrared Temp Gun](https://www.amazon.com/s?k=reptile+infrared+temperature+gun)**
-- **[Bearded Dragon Care Book](https://www.amazon.com/s?k=bearded+dragon+care+guide+book)**
+- **[Bearded Dragon Habitat Kit](https://www.amazon.com/s?k=bearded+dragon+starter+habitat+kit&tag=scaledkeeper-20)**
+- **[Reptile Infrared Temp Gun](https://www.amazon.com/s?k=reptile+infrared+temperature+gun&tag=scaledkeeper-20)**
+- **[Bearded Dragon Care Book](https://www.amazon.com/s?k=bearded+dragon+care+guide+book&tag=scaledkeeper-20)**
 
 
 <div class="author-bio">
