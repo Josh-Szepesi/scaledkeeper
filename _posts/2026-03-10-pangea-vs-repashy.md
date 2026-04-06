@@ -52,7 +52,7 @@ Pangea Reptile produces a broader lineup of flavors than Repashy, which gives ke
 
 Pangea formulas tend to mix slightly smoother than Repashy and have a softer smell. Many keepers report that geckos who ignore Repashy will eat Pangea readily, and vice versa.
 
-The [Pangea Fruit Mix Complete](https://www.amazon.com/dp/B00BKBYLG4?tag=scaledkeeper-20) is the best starting point if you are choosing Pangea for the first time.
+The [Pangea Fruit Mix Complete](https://www.amazon.com/dp/B00C9JBTI2?tag=scaledkeeper-20) is the best starting point if you are choosing Pangea for the first time.
 
 ## Nutrition: How Do They Compare?
 
