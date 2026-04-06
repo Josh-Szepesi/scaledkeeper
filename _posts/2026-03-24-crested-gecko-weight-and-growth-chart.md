@@ -49,7 +49,7 @@ Hatchlings are small, and they grow slowly at first. Most emerge from the egg at
 
 In our experience with hatchlings, the first reliable weight gain usually starts around weeks three to five once feeding patterns establish. A hatchling that has been eating for a month should be gaining at least 0.5 g per week. If growth has stalled completely past the two-month mark, review your feeding approach before assuming illness.
 
-At this stage, diet consistency matters more than variety. Most experienced keepers stick with a single high-quality crested gecko meal replacement powder (MRP) for the first few months. [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B01CPIFMFS?tag=scaledkeeper-20) is one of the most widely used and accepted formulas - hatchlings that are eating will usually take to it without issues. See our [comparison of Pangea vs. Repashy](/pangea-vs-repashy/) for a closer look at diet options.
+At this stage, diet consistency matters more than variety. Most experienced keepers stick with a single high-quality crested gecko meal replacement powder (MRP) for the first few months. [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B00C9JBTI2?tag=scaledkeeper-20) is one of the most widely used and accepted formulas - hatchlings that are eating will usually take to it without issues. See our [comparison of Pangea vs. Repashy](/pangea-vs-repashy/) for a closer look at diet options.
 
 ### Juvenile Stage (3 to 12 months)
 
@@ -106,7 +106,7 @@ For keepers setting up an enclosure for the first time, the [Exo Terra Crested G
 ## Recommended Products
 
 - [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8?tag=scaledkeeper-20) - 0.001 g precision, reliable for monitoring even small hatchlings
-- [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B01CPIFMFS?tag=scaledkeeper-20) - a well-accepted MRP formula suitable from hatchling to adult
+- [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B00C9JBTI2?tag=scaledkeeper-20) - a well-accepted MRP formula suitable from hatchling to adult
 - [Exo Terra Crested Gecko Habitat Kit](https://www.amazon.com/dp/B07BVN15S5?tag=scaledkeeper-20) - enclosure kit for new keepers setting up a proper environment
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
