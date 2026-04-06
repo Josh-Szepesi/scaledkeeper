@@ -37,7 +37,7 @@ Repashy Superfoods offers several formulas relevant to crested gecko keepers. Th
 
 Repashy formulas tend to be slightly thicker when mixed and have a more pronounced smell that some geckos find very attractive. The ingredient quality is high and the brand has decades of use in the hobby backing its reputation.
 
-The [Repashy Crested Gecko MRP](https://www.amazon.com/dp/B001IQSB9S?tag=scaledkeeper-20) is the flagship product and the one most keepers start with.
+The [Repashy Crested Gecko MRP](https://www.amazon.com/dp/B0D84QQFP3?tag=scaledkeeper-20) is the flagship product and the one most keepers start with.
 
 Repashy is also widely available through pet stores and online retailers, which makes it easy to source consistently.
 
