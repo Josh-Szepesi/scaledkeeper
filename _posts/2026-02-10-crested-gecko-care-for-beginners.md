@@ -68,7 +68,7 @@ The easiest and most complete diet for crested geckos is a commercially prepared
 
 Mix to a ketchup-like consistency and offer every other day in a small dish. Remove uneaten food after 24–36 hours to prevent mold.
 
-The [Pangea Fruit Mix Complete](https://www.amazon.com/dp/B00BKBYLG4?tag=scaledkeeper-20) is a solid starting point  -  it's nutritionally complete and most geckos accept it readily.
+The [Pangea Fruit Mix Complete](https://www.amazon.com/dp/B00C9JBTI2?tag=scaledkeeper-20) is a solid starting point  -  it's nutritionally complete and most geckos accept it readily.
 
 ### Live Insects
 
