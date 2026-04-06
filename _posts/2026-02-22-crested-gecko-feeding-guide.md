@@ -31,7 +31,7 @@ The two most trusted brands are Repashy and Pangea. Both are nutritionally compl
 
 Mix CGD to a ketchup-like consistency. Too thick and it dries out quickly. Too watery and it lacks the nutritional density your gecko needs. A ratio of roughly one part powder to two parts water is a good starting point, adjusted slightly based on how your gecko responds.
 
-The [Pangea Fruit Mix Complete](https://www.amazon.com/dp/B00BKBYLG4?tag=scaledkeeper-20) is one of the most accepted formulas in the hobby and a solid first choice for new keepers.
+The [Pangea Fruit Mix Complete](https://www.amazon.com/dp/B00C9JBTI2?tag=scaledkeeper-20) is one of the most accepted formulas in the hobby and a solid first choice for new keepers.
 
 ## How Often to Feed
 
