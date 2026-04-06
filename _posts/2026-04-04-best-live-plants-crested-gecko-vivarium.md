@@ -82,13 +82,13 @@ For planting, dig a small pocket in the substrate, remove the plant from its nur
 
 Allow two to four weeks for plants to establish before introducing your gecko. During this period, maintain the enclosure at normal temperature and humidity but expect some initial leaf yellowing or drop - this is normal transplant stress and not an indication the plant is dying.
 
-Proper misting equipment makes a significant difference in how well plants establish and how consistently the enclosure holds humidity. We use an [Exo Terra 2-quart spray bottle](https://www.amazon.com/dp/B004CJS7XW) for day-to-day spot misting; it gives good control over spray direction and volume without soaking everything at once.
+Proper misting equipment makes a significant difference in how well plants establish and how consistently the enclosure holds humidity. We use an [Exo Terra 2-quart spray bottle](https://www.amazon.com/dp/B004CJS7XW?tag=scaledkeeper-20) for day-to-day spot misting; it gives good control over spray direction and volume without soaking everything at once.
 
 ## Substrate and Drainage Considerations for a Planted Vivarium
 
 A planted vivarium needs substrate that drains well but retains enough moisture to support root systems. The standard recommendation in the vivarium hobby is a mix of roughly 60 percent organic material (coconut fiber or peat-based mix) and 40 percent drainage amendments like sand or fine orchid bark. Pure coconut fiber compacts over time and becomes anaerobic in the lower layers, which kills roots and produces foul odors.
 
-Coconut chip products like the [Halatool compressed coconut chips](https://www.amazon.com/dp/B0D46SQ34S) and [RediChip medium coconut chip substrate](https://www.amazon.com/dp/B096BHQ99Y) work well blended into a planted substrate mix. Coconut chips create air pockets that prevent compaction and drain excess water efficiently while still holding enough moisture for root uptake. They're also a natural material that works well in bioactive builds where you're adding isopods and springtails.
+Coconut chip products like the [Halatool compressed coconut chips](https://www.amazon.com/dp/B0D46SQ34S?tag=scaledkeeper-20) and [RediChip medium coconut chip substrate](https://www.amazon.com/dp/B096BHQ99Y?tag=scaledkeeper-20) work well blended into a planted substrate mix. Coconut chips create air pockets that prevent compaction and drain excess water efficiently while still holding enough moisture for root uptake. They're also a natural material that works well in bioactive builds where you're adding isopods and springtails.
 
 The exact blend matters less than ensuring the substrate isn't too dense or too wet. If you press your finger into the substrate and it feels saturated, it's too wet for plant roots to thrive long-term.
 
@@ -114,9 +114,9 @@ Keep the light on a timer. Consistent light cycles are good for both the plants 
 
 ## Recommended Products
 
-- [Exo Terra Spray Bottle 2 Quarts](https://www.amazon.com/dp/B004CJS7XW) - reliable for daily misting without soaking the enclosure
-- [Halatool Compressed Coconut Chips Substrate](https://www.amazon.com/dp/B0D46SQ34S) - good drainage amendment to blend into planted substrate mixes
-- [RediChip Medium Coconut Chip Substrate 36 Qt](https://www.amazon.com/dp/B096BHQ99Y) - bulk option for larger builds or multiple enclosures
+- [Exo Terra Spray Bottle 2 Quarts](https://www.amazon.com/dp/B004CJS7XW?tag=scaledkeeper-20) - reliable for daily misting without soaking the enclosure
+- [Halatool Compressed Coconut Chips Substrate](https://www.amazon.com/dp/B0D46SQ34S?tag=scaledkeeper-20) - good drainage amendment to blend into planted substrate mixes
+- [RediChip Medium Coconut Chip Substrate 36 Qt](https://www.amazon.com/dp/B096BHQ99Y?tag=scaledkeeper-20) - bulk option for larger builds or multiple enclosures
 
 ## Frequently Asked Questions
 
