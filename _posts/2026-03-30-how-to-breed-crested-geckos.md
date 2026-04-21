@@ -97,7 +97,7 @@ Place eggs half-buried (or resting on top) in the medium in a small deli contain
 
 At room temperature incubation, a basic setup works: a lidded container in a stable room with a consistent temperature. Avoid spots near windows (temperature swings), heater vents, or air conditioning outlets.
 
-If you want more control, the **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B00F6CBRDO?tag=scaledkeeper-20)** is a practical entry-level option. It holds temperature within a narrow range and keeps the humidity consistent without active monitoring. This is worth the investment if you're running multiple clutches at once or your home has significant temperature variation between seasons.
+If you want more control, the **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B08BH7J5XK?tag=scaledkeeper-20)** is a practical entry-level option. It holds temperature within a narrow range and keeps the humidity consistent without active monitoring. This is worth the investment if you're running multiple clutches at once or your home has significant temperature variation between seasons.
 
 ### Incubation Duration
 
@@ -128,7 +128,7 @@ For a broader overview of how diet evolves as crested geckos grow, the [Reptifil
 Three products we use consistently in our breeding setup:
 
 - **[Pangea Breeding and Nesting Box](https://www.amazon.com/dp/B07Q5LPTHB?tag=scaledkeeper-20)** - Sized correctly for crested geckos, with a covered entry that slows medium drying.
-- **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B00F6CBRDO?tag=scaledkeeper-20)** - A practical low-cost incubator for keepers running multiple clutches or in rooms with variable temperatures.
+- **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B08BH7J5XK?tag=scaledkeeper-20)** - A practical low-cost incubator for keepers running multiple clutches or in rooms with variable temperatures.
 - **[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ?tag=scaledkeeper-20)** - The staple diet for both breeders and hatchlings; mixes well at different consistencies depending on age.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
