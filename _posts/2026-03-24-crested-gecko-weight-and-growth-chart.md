@@ -20,7 +20,7 @@ Crested geckos are expert at looking normal even when they're not. Their dorsal 
 
 We weigh every gecko in our collection at least once a month and log each measurement. It takes about five minutes total for a small collection, and it has flagged health issues well before they became serious - a gecko holding steady at a weight it should have passed months ago, or one that dropped a gram over two weeks for no obvious reason.
 
-A basic digital scale that reads in 0.1-gram increments is all you need. The [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8?tag=scaledkeeper-20) is a common choice among reptile keepers - it reads down to 0.001 grams, which is genuinely useful for monitoring hatchlings.
+A basic digital scale that reads in 0.1-gram increments is all you need. The [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B0012TDNAM?tag=scaledkeeper-20) is a common choice among reptile keepers - it reads down to 0.001 grams, which is genuinely useful for monitoring hatchlings.
 
 ## Crested Gecko Weight Chart by Age
 
@@ -105,7 +105,7 @@ For keepers setting up an enclosure for the first time, the [Exo Terra Crested G
 
 ## Recommended Products
 
-- [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B005LBKPQ8?tag=scaledkeeper-20) - 0.001 g precision, reliable for monitoring even small hatchlings
+- [American Weigh Scales Gemini-20 Portable Milligram Scale](https://www.amazon.com/dp/B0012TDNAM?tag=scaledkeeper-20) - 0.001 g precision, reliable for monitoring even small hatchlings
 - [Pangea Fruit Mix Complete Crested Gecko Diet](https://www.amazon.com/dp/B00C9JBTI2?tag=scaledkeeper-20) - a well-accepted MRP formula suitable from hatchling to adult
 - [Exo Terra Crested Gecko Habitat Kit](https://www.amazon.com/dp/B00P2PBKR0?tag=scaledkeeper-20) - enclosure kit for new keepers setting up a proper environment
 
