@@ -113,7 +113,7 @@ Hatchlings should be housed individually from the start. A small enclosure - 6x6
 
 Feed hatchlings the same complete-diet gecko food you use for adults, offered in a small dish 3-4 times per week. In our experience keeping hatchlings, smaller amounts more frequently - refreshing the dish every 2 days - works better than putting out a larger portion that dries out before the hatchling finishes it.
 
-**[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ?tag=scaledkeeper-20)** works well for hatchlings mixed slightly thinner than the adult consistency. Start with just a small pea-sized amount per feeding to minimize waste while the gecko is still establishing its feeding routine.
+**[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B00YFZ15PA?tag=scaledkeeper-20)** works well for hatchlings mixed slightly thinner than the adult consistency. Start with just a small pea-sized amount per feeding to minimize waste while the gecko is still establishing its feeding routine.
 
 Track each hatchling's weight weekly for the first two months using a digital kitchen scale. Healthy hatchlings gain steadily - a gecko that isn't gaining weight by four weeks old warrants closer attention to feeding schedule and enclosure humidity. The weight benchmarks in our [crested gecko weight and growth chart](/2026/03/24/crested-gecko-weight-and-growth-chart) give you targets to compare against.
 
@@ -129,7 +129,7 @@ Three products we use consistently in our breeding setup:
 
 - **[Pangea Breeding and Nesting Box](https://www.amazon.com/dp/B07Q5LPTHB?tag=scaledkeeper-20)** - Sized correctly for crested geckos, with a covered entry that slows medium drying.
 - **[Zoo Med ReptiHatchr Egg Incubator](https://www.amazon.com/dp/B08BH7J5XK?tag=scaledkeeper-20)** - A practical low-cost incubator for keepers running multiple clutches or in rooms with variable temperatures.
-- **[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B07BVL9BLZ?tag=scaledkeeper-20)** - The staple diet for both breeders and hatchlings; mixes well at different consistencies depending on age.
+- **[Pangea Fruit Mix Complete Crested Gecko Food](https://www.amazon.com/dp/B00YFZ15PA?tag=scaledkeeper-20)** - The staple diet for both breeders and hatchlings; mixes well at different consistencies depending on age.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
