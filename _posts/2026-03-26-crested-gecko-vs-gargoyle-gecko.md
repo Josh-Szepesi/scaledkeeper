@@ -92,7 +92,7 @@ If you're genuinely torn, there's nothing stopping you from keeping both - just 
 
 Both crested and gargoyle geckos do well on the same staple foods and enclosures. These are the products we use regularly in our collection:
 
-- **Pangea Fruit Mix Complete Gecko Food** - A nutritionally complete CGD that works for both species. We rotate multiple Pangea flavors throughout the month. [Shop on Amazon](https://www.amazon.com/dp/B00HPN2OSW?tag=scaledkeeper-20)
+- **Pangea Fruit Mix Complete Gecko Food** - A nutritionally complete CGD that works for both species. We rotate multiple Pangea flavors throughout the month. [Shop on Amazon](https://www.amazon.com/dp/B08N5WRWNW?tag=scaledkeeper-20)
 
 - **Repashy Crested Gecko MRP** - Another complete meal replacement powder and a solid option for rotation with Pangea. The insects-included formula is a favorite in our collection. [Shop on Amazon](https://www.amazon.com/dp/B0BKQVVJ88?tag=scaledkeeper-20)
 
