@@ -5,7 +5,7 @@ description: "Master the leopard gecko diet with our expert guide on feeder inse
 excerpt: "Learn how to build a healthy leopard gecko diet with the right feeders, gut loading, and supplements."
 tags: [leopard gecko, diet, feeders, supplements]
 date: 2026-04-22
-image: /assets/images/2026-04-22-leopard-gecko-diet.jpg
+image: /assets/images/2026-04-22-leopard-gecko-diet-hero.jpg
 ---
 
 *This post contains affiliate links. We may earn a commission if you purchase through our links at no extra cost to you.*
