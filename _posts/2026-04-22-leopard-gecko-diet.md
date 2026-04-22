@@ -21,7 +21,7 @@ The most common mistake new keepers make is treating all insects as equal. They 
 
 Crickets are the traditional staple, but they are nutritionally inferior and a massive headache to manage. They smell, they die off quickly, and if left in the enclosure, they can actually bite and injure a sleeping gecko. If you must use crickets, they should be a secondary option used for enrichment to encourage hunting behavior. For a truly healthy gecko, you want to rotate between three or four different insects. Black soldier fly larvae (sold as NutriGrubs or Phoenix Worms) are an incredible addition because they are naturally high in calcium, which helps balance the phosphorus levels found in most other feeders.
 
-Silkworms are another "superfood" that I recommend whenever they are available. They contain an enzyme called serrapeptase that aids in calcium absorption and has anti-inflammatory properties. They are soft, easy to digest, and highly palatable even for picky eaters. On the other hand, stay away from waxworms and hornworms as staples. Waxworms are essentially "gecko candy" with a fat content that will lead to hepatic lipidosis (fatty liver disease) if fed more than once every two weeks. Use them only for bonding or to help a rescue gecko put on weight. When you are starting out, refer to my [Leopard Gecko Care Guide for Beginners](/2026-04-18-leopard-gecko-care-guide-beginners) to ensure your husbandry supports the digestion of these various protein sources.
+Silkworms are another "superfood" that I recommend whenever they are available. They contain an enzyme called serrapeptase that aids in calcium absorption and has anti-inflammatory properties. They are soft, easy to digest, and highly palatable even for picky eaters. On the other hand, stay away from waxworms and hornworms as staples. Waxworms are essentially "gecko candy" with a fat content that will lead to hepatic lipidosis (fatty liver disease) if fed more than once every two weeks. Use them only for bonding or to help a rescue gecko put on weight. When you are starting out, refer to my [Leopard Gecko Care Guide for Beginners](/2026/04/18/leopard-gecko-care-guide-beginners) to ensure your husbandry supports the digestion of these various protein sources.
 
 ## The Science of Gut Loading and Nutrient Density
 
@@ -51,7 +51,7 @@ For hatchlings (0 to 6 months), you should feed every single day. Offer as many 
 
 Once a gecko reaches 12 months, they are considered adults. I feed my adults only two or three times a week. I monitor their tail girth closely. A healthy leopard gecko should have a tail that is roughly the same width as its neck. If the tail becomes wider than the body, you are overfeeding. Conversely, if the tail is thin and "pencil-like," you need to increase the frequency or the fat content of the feeders. 
 
-During the winter months, you must also account for brumation. Even with consistent heat, many geckos sense the seasonal shift and will naturally reduce their intake. Do not panic if an adult gecko refuses food for two weeks in January, provided their tail remains plump. If you are dealing with a rescue gecko that is underweight, avoid the temptation to power feed with waxworms. This can lead to a dangerous metabolic crash. Instead, increase the frequency of high-protein Dubia roaches and use a liquid calcium supplement to support their recovery without overloading their liver with fat. For more on how to set up your environment to support this growth, check out our guide on the [Best Leopard Gecko Enclosures and Heating Setups](/2026-04-20-best-leopard-gecko-enclosures-heating-setups).
+During the winter months, you must also account for brumation. Even with consistent heat, many geckos sense the seasonal shift and will naturally reduce their intake. Do not panic if an adult gecko refuses food for two weeks in January, provided their tail remains plump. If you are dealing with a rescue gecko that is underweight, avoid the temptation to power feed with waxworms. This can lead to a dangerous metabolic crash. Instead, increase the frequency of high-protein Dubia roaches and use a liquid calcium supplement to support their recovery without overloading their liver with fat. For more on how to set up your environment to support this growth, check out our guide on the [Best Leopard Gecko Enclosures and Heating Setups](/2026/04/20/best-leopard-gecko-enclosures-heating-setups).
 
 ## Nutritional Profile Comparison of Common Feeders
 
@@ -96,8 +96,8 @@ The leopard gecko diet is a dynamic part of husbandry that requires your constan
 Bookmark this guide so you can refer back to the supplementation schedule whenever you add a new gecko to your collection.
 
 ### Related Reading
-- [Leopard Gecko Care Guide for Beginners](/2026-04-18-leopard-gecko-care-guide-beginners)
-- [Best Leopard Gecko Enclosures and Heating Setups](/2026-04-20-best-leopard-gecko-enclosures-heating-setups)
+- [Leopard Gecko Care Guide for Beginners](/2026/04/18/leopard-gecko-care-guide-beginners)
+- [Best Leopard Gecko Enclosures and Heating Setups](/2026/04/20/best-leopard-gecko-enclosures-heating-setups)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
