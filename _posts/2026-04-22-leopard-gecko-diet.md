@@ -12,7 +12,7 @@ image: /assets/images/2026-04-22-leopard-gecko-diet-hero.jpg
 
 Transitioning from a frugivorous species like the crested gecko to a strict insectivore like the leopard gecko requires a total shift in your mindset regarding nutrition. You cannot simply mix a powder with water and call it a day when planning a leopard gecko diet. Leopard geckos are opportunistic hunters that rely on the movement, protein structure, and mineral content of live prey to maintain their metabolic functions. If you get the diet wrong, you are not just looking at a picky eater. You are looking at a slow-motion health crisis involving metabolic bone disease, follicular stasis, or organ failure. I have seen far too many keepers rely on a single insect species because it is convenient, only to wonder why their gecko is lethargic and dull-colored six months later. To keep these animals correctly, you must treat the diet as a three-pillar system: the selection of high-quality feeders, the rigorous gut loading of those feeders, and a precise supplementation schedule that accounts for the presence or absence of ultraviolet light.
 
-![Leopard gecko showing its tongue in close-up](/assets/images/2026-04-22-leopard-gecko-diet.jpg)
+![Leopard gecko showing its tongue in close-up](/assets/images/2026-04-22-leopard-gecko-diet-hero.jpg)
 <p class="image-credit">Photo by <a href="https://unsplash.com/@anritikhon?utm_source=artlines_blog&utm_medium=referral">Andrey Tikhonovskiy</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Foundation of a Leopard Gecko Diet: Choosing the Right Feeders
