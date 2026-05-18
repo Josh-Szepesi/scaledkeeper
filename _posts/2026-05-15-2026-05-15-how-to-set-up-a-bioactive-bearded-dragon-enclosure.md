@@ -86,4 +86,4 @@ Bookmark this guide to refer back to the step-by-step setup process as you build
 - [Crested Gecko Care Guide](/crested-gecko-care-guide)
 - [Best Reptile Lighting](/best-reptile-lighting)
 
-<div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p></div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team researches reptile husbandry with a focus on gecko and lizard care. Our guides synthesize keeper community data, veterinary sources, and documented husbandry outcomes - so you can make informed decisions for your animals.</p></div>
