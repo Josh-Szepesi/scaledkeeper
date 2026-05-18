@@ -107,7 +107,4 @@ If you found this guide helpful, consider bookmarking it for your next trip to a
 - [Leopard Gecko Care Guide for Beginners](/2026/04/18/leopard-gecko-care-guide-beginners/)
 - [Best Leopard Gecko Enclosures and Heating Setups](/2026/04/20/best-leopard-gecko-enclosures-heating-setups/)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team researches reptile husbandry with a focus on gecko and lizard care. Our guides synthesize keeper community data, veterinary sources, and documented husbandry outcomes - so you can make informed decisions for your animals.</p></div>
