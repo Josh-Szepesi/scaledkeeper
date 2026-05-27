@@ -20,7 +20,7 @@ Crested geckos (Correlophus ciliatus) were once thought to be extinct until thei
 
 Adult crested geckos typically reach 7 to 9 inches from snout to tail tip and weigh between 35 and 55 grams when fully grown. One thing to know upfront: crested geckos cannot regenerate a dropped tail. If they drop it due to stress or handling, it's gone. Most long-term keepers have at least one "frog butt" gecko in their collection and consider it a non-issue, but it's worth knowing before you bring one home.
 
-For a complete overview of housing, feeding, and temperature, see our [crested gecko care guide for beginners](/2026-02-10-crested-gecko-care-for-beginners/).
+For a complete overview of housing, feeding, and temperature, see our [crested gecko care guide for beginners](/2026/02/10/crested-gecko-care-for-beginners//).
 
 ## What Is a Gargoyle Gecko?
 
@@ -54,7 +54,7 @@ The two most widely used brands are Pangea Fruit Mix Complete and Repashy Creste
 
 Live insects can be added as supplemental prey. Crickets and dubia roaches work well for both species, offered once or twice a week for juveniles and every one to two weeks for adults. Gargoyle geckos tend to be more enthusiastic live-prey hunters than crested geckos, though both are capable hunters.
 
-See our [complete guide to crested gecko feeding](/2026-02-22-crested-gecko-feeding-guide/) for detailed schedules and supplementation guidance - the same principles apply to gargoyle geckos.
+See our [complete guide to crested gecko feeding](/2026/02/22/crested-gecko-feeding-guide//) for detailed schedules and supplementation guidance - the same principles apply to gargoyle geckos.
 
 ## Enclosure Setup
 
@@ -102,7 +102,7 @@ Both crested and gargoyle geckos do well on the same staple foods and enclosures
 
 ---
 
-Ready to go deeper? Check out our [crested gecko enclosure setup guide](/2026-02-13-crested-gecko-enclosure-setup/) for a detailed walkthrough of lighting, substrate, and decor - the same principles apply to gargoyle gecko builds.
+Ready to go deeper? Check out our [crested gecko enclosure setup guide](/2026/02/13/crested-gecko-enclosure-setup//) for a detailed walkthrough of lighting, substrate, and decor - the same principles apply to gargoyle gecko builds.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
