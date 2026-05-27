@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Crested Gecko Temperature and Humidity: Complete Care Guide"
+title: "Crested Gecko Temperature and Humidity: Exact Ranges, Misting Schedule, and Setup"
 date: 2026-03-22
-description: "Learn the exact temperature and humidity ranges crested geckos need, plus misting schedules, monitoring tools, and troubleshooting tips for a thriving gecko."
+description: "Crested geckos need 72-78F days and 65-72F nights with 60-80% humidity. Exact targets, misting frequency, monitoring tools, and what happens if temps run too high."
 tags: [reptile, crested-gecko, husbandry, temperature, humidity]
 image: /assets/images/2026-03-22-crested-gecko-temperature-and-humidity-complete-care-guide.jpg
 ---
