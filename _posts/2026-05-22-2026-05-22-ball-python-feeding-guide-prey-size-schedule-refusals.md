@@ -15,7 +15,7 @@ Feeding a ball python is often the most stressful aspect of ownership for a new 
 
 ## Determining the Correct Prey Size for Your Ball Python
 
-The most common error in ball python feeding is offering prey that is either too small to provide adequate nutrition or too large for the snake to safely swallow and digest. Unlike many other reptiles, such as the species discussed in this [Bearded Dragon Care Guide For Beginners](/2026-05-08-2026-05-08-bearded-dragon-care-guide-for-beginners), ball pythons are heavy-bodied constrictors that can handle relatively large prey, but their metabolism is slow. The industry standard for sizing is to offer a prey item that is approximately 1.0 to 1.25 times the width of the snake at its thickest point. If the meal is the correct size, you should see a slight, noticeable bulge in the snake's midsection after ingestion, which should disappear within 24 to 48 hours.
+The most common error in ball python feeding is offering prey that is either too small to provide adequate nutrition or too large for the snake to safely swallow and digest. Unlike many other reptiles, such as the species discussed in this [Bearded Dragon Care Guide For Beginners](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/), ball pythons are heavy-bodied constrictors that can handle relatively large prey, but their metabolism is slow. The industry standard for sizing is to offer a prey item that is approximately 1.0 to 1.25 times the width of the snake at its thickest point. If the meal is the correct size, you should see a slight, noticeable bulge in the snake's midsection after ingestion, which should disappear within 24 to 48 hours.
 
 For those who prefer a more data-driven approach, weighing your snake and its prey on a digital gram scale is the most reliable method. For hatchlings and juveniles under 500 grams, the meal should represent roughly 10% to 15% of the snake's total body weight. As the snake matures and its growth rate slows, this percentage should decrease. An adult ball python over 1,000 grams typically only requires a meal that is 5% to 7% of its body weight. Overfeeding an adult snake leads to obesity, which puts significant strain on the heart and liver, eventually shortening the animal's lifespan.
 
@@ -77,7 +77,7 @@ Successfully feeding a ball python is a matter of mastering environmental variab
 To stay updated on the latest reptile care standards, consider bookmarking this site for future reference.
 
 ### Related Reading
-- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026-05-08-2026-05-08-bearded-dragon-care-guide-for-beginners)
+- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/)
 - [Leopard Gecko Morphs Color Guide](/leopard-gecko-morphs-color-guide)
 
 <div class="author-
