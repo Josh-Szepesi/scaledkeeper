@@ -18,7 +18,7 @@ The crested gecko (Correlophus ciliatus) is the species that saved the New Caled
 
 One thing you must understand about crested geckos is their "flighty" nature. Unlike some of their cousins, crested geckos are prone to jumping without a clear landing zone in mind. They are the acrobats of the group, but they lack a sense of self preservation. They also possess a prehensile tail that, unfortunately, does not grow back if dropped. In our experience with crested geckos, a tail drop is almost a rite of passage for many keepers, but it can be avoided with calm handling and a stress free environment. Because they are strictly arboreal, they require vertical space. A young juvenile can start in a smaller tub, but an adult needs a minimum of an 18x18x24 inch glass terrarium. For those starting from scratch, the [Crested Gecko Habitat Starter Kit](https://www.amazon.com/dp/B01N5VWZEB?tag=scaledkeeper-20) provides a solid foundation, though you will likely want to upgrade the decor as you learn more about their climbing habits.
 
-Dietarily, they are the easiest to manage. They thrive on commercially prepared fruit pastes, though they should also be offered live insects like dubia roaches or crickets to encourage natural hunting behaviors and exercise. If you are focusing on growth and bone health, pay close attention to your [Crested Gecko Calcium Supplementation Guide](/2026-04-16-crested-gecko-calcium-supplementation-guide) to ensure they are getting the proper D3 and mineral ratios. Without this, metabolic bone disease can set in quickly, leading to "floppy tail syndrome" or worse, spinal deformities.
+Dietarily, they are the easiest to manage. They thrive on commercially prepared fruit pastes, though they should also be offered live insects like dubia roaches or crickets to encourage natural hunting behaviors and exercise. If you are focusing on growth and bone health, pay close attention to your [Crested Gecko Calcium Supplementation Guide](/2026/04/16/crested-gecko-calcium-supplementation-guide/) to ensure they are getting the proper D3 and mineral ratios. Without this, metabolic bone disease can set in quickly, leading to "floppy tail syndrome" or worse, spinal deformities.
 
 ## The Gargoyle Gecko: The Grumpy, Colorful Alternative
 
@@ -62,7 +62,7 @@ Choosing between these three isn't just about which one looks the coolest. You n
 
 If you are a first time keeper, I will always point you toward the crested gecko. The sheer amount of community support and available information makes them the safest bet. If you have kept reptiles before and want something with more "character" and don't mind a gecko that stays hidden during the day, the gargoyle is the winner. If you are an advanced keeper with a large budget and a desire for a "legacy" reptile that can live 25 to 30 years, the Leachie is the ultimate goal.
 
-Don't forget the importance of a [Quarantine Tank For New Reptiles](/2026-04-16-quarantine-tank-for-new-reptiles). Regardless of which species you choose, you must keep them separate from your existing collection for at least 60 to 90 days. New Caledonian geckos can carry Entamoeba invadens, a parasite that is devastating to reptile collections. A simple paper towel setup in a plastic tub during the quarantine phase allows you to monitor droppings and ensure the animal is eating before it moves into a permanent, decorated home.
+Don't forget the importance of a [Quarantine Tank For New Reptiles](/2026/04/16/quarantine-tank-for-new-reptiles/). Regardless of which species you choose, you must keep them separate from your existing collection for at least 60 to 90 days. New Caledonian geckos can carry Entamoeba invadens, a parasite that is devastating to reptile collections. A simple paper towel setup in a plastic tub during the quarantine phase allows you to monitor droppings and ensure the animal is eating before it moves into a permanent, decorated home.
 
 ## Common Mistakes and Troubleshooting
 
@@ -90,8 +90,8 @@ The New Caledonian gecko group offers some of the most rewarding experiences in 
 Bookmark this guide so you can refer back to the humidity and temperature requirements as the seasons change.
 
 ### Related reading
-- [Crested Gecko Calcium Supplementation Guide](/2026-04-16-crested-gecko-calcium-supplementation-guide)
-- [Quarantine Tank For New Reptiles](/2026-04-16-quarantine-tank-for-new-reptiles)
+- [Crested Gecko Calcium Supplementation Guide](/2026/04/16/crested-gecko-calcium-supplementation-guide/)
+- [Quarantine Tank For New Reptiles](/2026/04/16/quarantine-tank-for-new-reptiles/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
