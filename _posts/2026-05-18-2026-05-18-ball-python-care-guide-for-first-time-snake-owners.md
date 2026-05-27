@@ -93,7 +93,7 @@ Successfully keeping a ball python requires a commitment to detail and a willing
 Be sure to bookmark this guide for future reference as your snake grows and its needs evolve.
 
 ### Related reading
-*   [Bearded Dragon Care Guide For Beginners](/2026-05-08-2026-05-08-bearded-dragon-care-guide-for-beginners)
+*   [Bearded Dragon Care Guide For Beginners](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/)
 *   [Leopard Gecko Morphs Color Guide](/leopard-gecko-morphs-color-guide)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p></div>
