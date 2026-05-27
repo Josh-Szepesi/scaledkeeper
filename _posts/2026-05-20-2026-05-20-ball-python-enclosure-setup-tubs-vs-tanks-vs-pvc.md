@@ -54,7 +54,7 @@ The most frequent mistake in a ball python enclosure setup is the use of inaccur
 
 Neglecting the "clutter" factor is another hurdle that leads to feeding refusals. Beginners often want a clean, minimalist look, but ball pythons hate open space. If there is a clear path from one hide to another where the snake is exposed, it will likely stay in one hide and refuse to move, even if it becomes too hot or too cold. You must break up the lines of sight. Use fake vines, leaf litter, and branches to create a "jungle" feel. If you can see your snake easily from across the room, the snake feels like a predator can see it just as easily.
 
-Finally, do not overlook the importance of substrate depth. A thin layer of substrate dries out almost instantly. By providing a deep layer, you create a humidity reservoir. The bottom layers stay damp while the top layer stays dry, allowing moisture to evaporate slowly and maintain a consistent humidity percentage. This is much more effective than constant misting, which can lead to "scale rot" if the snake is forced to sit on soaking wet bedding. Just as you would research the specific needs for a [bearded dragon](/2026-05-08-2026-05-08-bearded-dragon-care-guide-for-beginners), you must understand that the ball python’s environment is a delicate balance of moisture and air quality.
+Finally, do not overlook the importance of substrate depth. A thin layer of substrate dries out almost instantly. By providing a deep layer, you create a humidity reservoir. The bottom layers stay damp while the top layer stays dry, allowing moisture to evaporate slowly and maintain a consistent humidity percentage. This is much more effective than constant misting, which can lead to "scale rot" if the snake is forced to sit on soaking wet bedding. Just as you would research the specific needs for a [bearded dragon](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/), you must understand that the ball python’s environment is a delicate balance of moisture and air quality.
 
 ## Comparing Enclosure Materials
 
@@ -87,7 +87,7 @@ The success of your ball python enclosure setup depends on your ability to repli
 Bookmark this guide to reference during your next enclosure upgrade or when troubleshooting humidity issues.
 
 ### Related reading
-- [2026 05 06 Comparing New Caledonian Gecko Species For Keepers](/2026-05-06-2026-05-06-comparing-new-caledonian-gecko-species-for-keepers)
-- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026-05-08-2026-05-08-bearded-dragon-care-guide-for-beginners)
+- [2026 05 06 Comparing New Caledonian Gecko Species For Keepers](/2026/05/06/2026-05-06-comparing-new-caledonian-gecko-species-for-keepers/)
+- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team covers reptile husbandry with a focus on crested geckos. Our care guides are informed by ongoing keeping and breeding experience - we write about what we observe in our own enclosures.</p></div>
