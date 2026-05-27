@@ -19,7 +19,7 @@ The single biggest factor that determines success for a new keeper is the diet. 
 
 Crested geckos, on the other hand, have revolutionized the hobby because they are frugivores. In the wild, they eat rotting fruit and the occasional insect. In captivity, we use high-quality Complete Gecko Diets (CGD). These are powders that you mix with water to create a ketchup-like consistency. These powders are nutritionally complete, meaning they contain all the vitamins and minerals the gecko needs. While offering live insects once a week is great for enrichment and growth, a crested gecko can thrive entirely on a high-quality powdered diet. This makes them the ultimate "apartment reptile" for people who do not want to deal with the noise, smell, or escape risk associated with keeping feeder insects.
 
-However, do not mistake "easier" for "no effort." Even with a powdered diet, you must understand [Crested Gecko Calcium Supplementation Guide](/2026-04-16-crested-gecko-calcium-supplementation-guide) to ensure your gecko does not develop Metabolic Bone Disease. Leopard geckos require even more diligence in this area, as every single insect must be dusted with calcium and D3 before being offered. If you choose the leopard gecko, you are signing up for a lifetime of managing a biological supply chain of insects. If you choose the crested gecko, you are buying a bag of powder that sits in your refrigerator. The difference in daily labor is massive.
+However, do not mistake "easier" for "no effort." Even with a powdered diet, you must understand [Crested Gecko Calcium Supplementation Guide](/2026/04/16/crested-gecko-calcium-supplementation-guide/) to ensure your gecko does not develop Metabolic Bone Disease. Leopard geckos require even more diligence in this area, as every single insect must be dusted with calcium and D3 before being offered. If you choose the leopard gecko, you are signing up for a lifetime of managing a biological supply chain of insects. If you choose the crested gecko, you are buying a bag of powder that sits in your refrigerator. The difference in daily labor is massive.
 
 ## Habitat Dynamics: Vertical vs. Horizontal Space
 
@@ -68,7 +68,7 @@ If you have decided on a species, do not buy the cheapest plastic tub you can fi
 
 If the leopard gecko is your choice, the [Leopard Gecko Starter Kit](https://www.amazon.com/dp/B0CNVC7X44?tag=scaledkeeper-20) provides the horizontal footprint they need. The most important part of a leopard gecko setup is the "three-hide rule." You need a hide on the hot side, a hide on the cool side, and a "humid hide" in the middle filled with damp moss or paper towels. This humid hide is non-negotiable; it is the only way your gecko will be able to shed its skin properly in a dry environment.
 
-Before you put your gecko in its permanent home, you should always set up a [Quarantine Tank For New Reptiles](/2026-04-16-quarantine-tank-for-new-reptiles). This is a simple setup with paper towel substrate that allows you to monitor the gecko's health and ensure it is eating and defecating properly before you move it into a complex, decorated enclosure. This step is often skipped by beginners, but it is the best way to catch potential health issues like parasites before they become a major problem.
+Before you put your gecko in its permanent home, you should always set up a [Quarantine Tank For New Reptiles](/2026/04/16/quarantine-tank-for-new-reptiles/). This is a simple setup with paper towel substrate that allows you to monitor the gecko's health and ensure it is eating and defecating properly before you move it into a complex, decorated enclosure. This step is often skipped by beginners, but it is the best way to catch potential health issues like parasites before they become a major problem.
 
 ## Common Mistakes and Troubleshooting
 
@@ -96,8 +96,8 @@ Both the crested gecko and the leopard gecko are phenomenal animals that offer a
 Join our community by bookmarking this site for more deep dives into specific reptile husbandry techniques.
 
 **Related reading:**
-- [Leopard Gecko Care Guide Beginners](/2026-04-18-leopard-gecko-care-guide-beginners)
-- [Crested Gecko Calcium Supplementation Guide](/2026-04-16-crested-gecko-calcium-supplementation-guide)
+- [Leopard Gecko Care Guide Beginners](/2026/04/18/leopard-gecko-care-guide-beginners/)
+- [Crested Gecko Calcium Supplementation Guide](/2026/04/16/crested-gecko-calcium-supplementation-guide/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
