@@ -3,7 +3,7 @@ layout: post
 title: "How to choose the right UVB bulb for any reptile"
 description: "Learn how to choose the right UVB bulb for any reptile by understanding Ferguson Zones, bulb types, and enclosure height to prevent Metabolic Bone Disease."
 date: 2026-05-27
-image: /assets/images/2026-05-27-how-to-choose-the-right-uvb-bulb-for-any-reptile.jpg
+image: /assets/images/2026-05-27-how-to-choose-the-right-uvb-bulb-for-any-reptile-hero.jpg
 ---
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
