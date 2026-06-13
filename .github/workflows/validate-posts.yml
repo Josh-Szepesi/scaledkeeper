@@ -1,0 +1,81 @@
+name: Validate Jekyll Posts
+
+on:
+  push:
+    paths:
+      - '_posts/**'
+  pull_request:
+    paths:
+      - '_posts/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate front matter on changed _posts
+        run: |
+          python3 - << 'PYEOF'
+          import sys, re, glob
+          from pathlib import Path
+
+          REQUIRED = {"layout", "title", "date"}
+          errors = []
+
+          for fpath in sorted(glob.glob("_posts/*.md")):
+              content = Path(fpath).read_text(encoding="utf-8", errors="replace")
+
+              if not (content.startswith("---\n") or content.startswith("---\r\n")):
+                  first = content.splitlines()[0][:80] if content.splitlines() else ""
+                  errors.append(f"{fpath}: does not start with '---' (got: {first!r})")
+                  continue
+
+              # Check for code fence wrapper in first 5 lines
+              for line in content.splitlines()[:5]:
+                  if line.lstrip().startswith("```"):
+                      errors.append(f"{fpath}: code fence in front matter area: {line[:80]!r}")
+                      break
+
+              # Find closing delimiter line-by-line
+              lines = content.splitlines()
+              closing = None
+              for i, line in enumerate(lines[1:], start=1):
+                  if line.rstrip() == "---":
+                      closing = i
+                      break
+                  if line.startswith("---") and line.rstrip() != "---":
+                      errors.append(f"{fpath}: malformed closing delimiter: {line[:120]!r}")
+                      break
+
+              if closing is None:
+                  errors.append(f"{fpath}: no closing '---' delimiter found")
+                  continue
+
+              # YAML parse
+              try:
+                  import yaml
+                  fm = yaml.safe_load("\n".join(lines[1:closing]))
+                  if not isinstance(fm, dict):
+                      errors.append(f"{fpath}: front matter not a mapping")
+                      continue
+                  missing = REQUIRED - set(fm.keys())
+                  if missing:
+                      errors.append(f"{fpath}: missing front matter keys: {sorted(missing)}")
+              except Exception as e:
+                  errors.append(f"{fpath}: YAML parse error: {e}")
+                  continue
+
+              # Body must be non-trivial
+              body = "\n".join(lines[closing + 1:]).strip()
+              if len(body) < 400:
+                  errors.append(f"{fpath}: body too short ({len(body)} chars)")
+
+          if errors:
+              print("VALIDATION ERRORS:")
+              for e in errors:
+                  print(f"  {e}")
+              sys.exit(1)
+          else:
+              print(f"All {len(list(glob.glob('_posts/*.md')))} posts valid.")
+          PYEOF
