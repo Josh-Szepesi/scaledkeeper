@@ -43,7 +43,7 @@ Not all bioactive mixes are created equal, and using a tropical mix for an arid 
 
 In contrast, arid bioactive setups require a substrate that can support burrows while remaining dry on the surface. Arid species like bearded dragons or leopard geckos need a substrate with a higher clay and sand content. The [The Bio Dude Terra Firma Bioactive Kit](https://www.amazon.com/dp/B07Z5C274C?tag=scaledkeeper-20) is a prime example of an arid capable substrate that does not rely on traditional "dirt" which would simply turn to dust in a hot, dry environment. This mix uses ingredients that allow for a "dry on top, moist on the bottom" gradient, which is essential for the survival of arid clean-up crews like *Porcellio laevis* or certain species of darkling beetles.
 
-When choosing between these products, consider the weight and the "sink" factor. Heavier animals, like adult ball pythons, will compact substrate much faster than a small gecko. For these larger reptiles, look for mixes with a higher percentage of orchid bark or coco husk chunks to provide structural reinforcement. This prevents the substrate from becoming a flat, dense mat that inhibits gas exchange. You can learn more about enclosure types and their impact on substrate choice in our guide on [ball python enclosure setup](/2026/05/20/2026-05-20-ball-python-enclosure-setup-tubs-vs-tanks-vs-pvc//). The container itself dictates how much substrate you can realistically use and how well it will hold moisture over time.
+When choosing between these products, consider the weight and the "sink" factor. Heavier animals, like adult ball pythons, will compact substrate much faster than a small gecko. For these larger reptiles, look for mixes with a higher percentage of orchid bark or coco husk chunks to provide structural reinforcement. This prevents the substrate from becoming a flat, dense mat that inhibits gas exchange. You can learn more about enclosure types and their impact on substrate choice in our guide on [ball python enclosure setup](/2026/05/20/ball-python-enclosure-setup-tubs-vs-tanks-vs-pvc/). The container itself dictates how much substrate you can realistically use and how well it will hold moisture over time.
 
 ## The Clean-Up Crew: Choosing and Supporting Your Custodians
 
@@ -88,7 +88,7 @@ Bookmark this guide to reference during your next enclosure build and ensure you
 
 **Related reading:**
 - [How To Set Up A Bioactive Bearded Dragon Enclosure](/2026/05/15/2026-05-15-how-to-set-up-a-bioactive-bearded-dragon-enclosure//)
-- [Ball Python Enclosure Setup Tubs Vs Tanks Vs Pvc](/2026/05/20/2026-05-20-ball-python-enclosure-setup-tubs-vs-tanks-vs-pvc//)
+- [Ball Python Enclosure Setup Tubs Vs Tanks Vs Pvc](/2026/05/20/ball-python-enclosure-setup-tubs-vs-tanks-vs-pvc/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>

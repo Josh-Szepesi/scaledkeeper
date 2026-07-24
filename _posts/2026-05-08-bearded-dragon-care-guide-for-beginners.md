@@ -1,6 +1,8 @@
 ---
-title: Bearded Dragon Care Guide: Everything You Need to Know
+layout: post
+title: "Bearded Dragon Care Guide: Everything You Need to Know"
 description: Master bearded dragon care with our comprehensive guide. Learn about enclosure setup, lighting, diet, and health for a happy, thriving pet. 
+date: 2026-05-08
 ---
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.* In our experience, the right approach makes all the difference. For more detailed species comparisons, you can also check out our [comprehensive reptile lighting guide](/reptile-lighting).
 

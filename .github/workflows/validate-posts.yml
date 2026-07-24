@@ -24,6 +24,9 @@ jobs:
           errors = []
 
           for fpath in sorted(glob.glob("_posts/*.md")):
+              if not re.match(r"^_posts/\d{4}-\d{2}-\d{2}-.+\.md$", fpath):
+                  errors.append(f"{fpath}: filename must start with YYYY-MM-DD-")
+
               content = Path(fpath).read_text(encoding="utf-8", errors="replace")
 
               if not (content.startswith("---\n") or content.startswith("---\r\n")):

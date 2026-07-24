@@ -95,7 +95,7 @@ Creating the best bearded dragon enclosure is an investment in your pet's longev
 Be sure to bookmark this guide for your next enclosure upgrade and share your setup progress in the comments.
 
 **Related reading:**
-- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/)
+- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026/05/08/bearded-dragon-care-guide-for-beginners/)
 - [2026 05 06 Comparing New Caledonian Gecko Species For Keepers](/2026/05/06/2026-05-06-comparing-new-caledonian-gecko-species-for-keepers/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team researches reptile husbandry with a focus on gecko and lizard care. Our guides synthesize keeper community data, veterinary sources, and documented husbandry outcomes - so you can make informed decisions for your animals.</p></div>

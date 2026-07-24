@@ -90,7 +90,7 @@ Adjusting the bearded dragon diet by age is the most impactful thing you can do 
 Bookmark this guide so you can refer back to the feeding ratios as your bearded dragon grows.
 
 ### Related reading
-- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026/05/08/2026-05-08-bearded-dragon-care-guide-for-beginners/)
+- [2026 05 08 Bearded Dragon Care Guide For Beginners](/2026/05/08/bearded-dragon-care-guide-for-beginners/)
 - [2026 04 29 Gargoyle Gecko Care Guide Housing Diet And Handling](/2026/04/29/2026-04-29-gargoyle-gecko-care-guide-housing-diet-and-handling/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The Scaled Keeper team researches reptile husbandry with a focus on gecko and lizard care. Our guides synthesize keeper community data, veterinary sources, and documented husbandry outcomes - so you can make informed decisions for your animals.</p></div>

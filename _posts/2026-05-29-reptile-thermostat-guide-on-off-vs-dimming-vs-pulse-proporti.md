@@ -95,7 +95,7 @@ Choosing the right thermostat is a non-negotiable part of responsible reptile ow
 Bookmark this guide for the next time you upgrade your enclosure or add a new reptile to your collection.
 
 ### Related reading
-- [2026 05 20 2026 05 20 Ball Python Enclosure Setup Tubs Vs Tanks Vs Pvc](/2026/05/20/2026-05-20-ball-python-enclosure-setup-tubs-vs-tanks-vs-pvc//)
+- [2026 05 20 2026 05 20 Ball Python Enclosure Setup Tubs Vs Tanks Vs Pvc](/2026/05/20/ball-python-enclosure-setup-tubs-vs-tanks-vs-pvc/)
 - [2026 05 15 2026 05 15 How To Set Up A Bioactive Bearded Dragon Enclosure](/2026/05/15/2026-05-15-how-to-set-up-a-bioactive-bearded-dragon-enclosure//)
 
 <div class="author-bio">

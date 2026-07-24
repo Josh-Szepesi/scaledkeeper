@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Crested gecko humidity and temperature management guide
 description: Master crested gecko humidity and temperature management with our expert guide on thermal gradients, hydration cycles, and automated climate control tools.
 date: 2026-06-15
